@@ -1,0 +1,57 @@
+[
+{
+	"uri": "https://hyoromo.github.io/sound-game-training-android/jp/features/",
+	"title": "機能説明",
+	"tags": [],
+	"description": "",
+	"content": "メンテナンス中\niTunes を使ってコンピュータと iOS／iPadOS デバイスの間でファイルを共有する」ページに転送方法が書かれていますので、こちらを参考にアプリへ転送してください。\n本アプリで追加する方法は以下の通りです。 1. 動画一覧画面を開く 2. 画面右下の「動画を追加」ボタンをクリック 3. 追加候補が表示中から「アプリ内」を選択 4. 追加したい動画を選択 5. 動画登録情報を入力して「追加」ボタンをクリック この手順後に動画一覧画面へ戻ると追加した動画が一覧に並んでいます。 #### YouTube動画を再生 YouTubeはGoogle社の動画共有サービスです。他の人がアップロードした音ゲー/リズムゲームの動画が存在する事があります。\n本アプリで追加する方法は以下の通りです。 1. 動画一覧画面を開く 2. 画面右下の「動画を追加」ボタンをクリック 3. 追加候補が表示中から「YouTube」を選択 4. YouTubeサイトから追加したい動画ページを開く 5. 動画ページの右下にある「動画を登録」ボタンをクリック 6. 動画登録情報を入力して「追加」ボタンをクリック この手順後に動画一覧画面へ戻ると追加した動画が一覧に並んでいます。 YouTube動画をダウンロードする訳ではないため、本アプリで動画再生時に毎回通信量が発生します。\n ## 疑似プレイ 再生中に動画をタップしても一時停止される事がありません。\nなので擬似的に音ゲー/リズムゲーをプレイする事が出来ます。\nそれ以外にも練習しやすくなる機能が多数あります。 - 動画の再生速度を調整\n0.25〜2.00倍速までの範囲で再生速度を調整出来ます - 動画の再生開始/終了位置を調整\n難所だけを集中的にプレイできるよう再生開始と終了範囲を設定出来ます - 動画の拡大／縮小と位置を調整\n動画を端末解像度に合わせられるように拡縮と位置調整が行えます - 動画の反転(ミラー)\n動画画面を左右反転表示出来ます - 動画の縦向き/横向きの両方に対応\n端末向きを縦/横向きに固定してプレイする事が出来ます - 再生中に数秒だけ巻き戻し/早送りするショートカットボタン\n一時停止してシークバー操作すること無く手軽に時間を操作出来るショートカットボタンを設定しています ## 再生位置をブックマーク ![video scale](img_video_bookmark.png#imgleft)  動画の再生開始/終了位置をブックマーク登録する機能があります。\n番号毎に再生開始/終了位置を設定しておくと、練習したい箇所の再生位置を手早く切り替える事が出来ます。\n## 色々なゲームの判定ラインをサポート ![video scale](img_video_scale.png#imgleft)  端末機種ごとに音ゲー/リズムゲームの判定ラインが異なる事が多いです。目当ての動画と端末の判定ライン位置が異なるかもしれません。\nこの問題に対して本アプリは、ご利用の端末での判定ラインに合わせやすいようガイド表示をサポートしています。\nサポートしているゲームは以下の通りです。ゆっくりですが対応アプリを増やし続けております。\n- アイドルマスター シンデレラガールズ スターライトステージ - アイドルマスター ミリオンライブ！ シアターデイズ - アイドルマスター SideM GROWING STARS - ラブライブ！スクールアイドルフェスティバル - バンドリ！ ガールズバンドパーティ！ - プロジェクトセカイ カラフルステージ！ feat. 初音ミク - Deemo - VOEZ - Arcaea - Dynamix - ヒプノシスマイク -A.R.B- - あんさんぶるスターズ！！Music - Re:ステージ！プリズムステップ - Tokyo 7th シスターズ - D4DJ Groovy Mix - 歌マクロス - ガールフレンド（♪） - 東方ダンマクカグラ プレイ動画を撮影した端末によっては、ラインに合わせられない事があります。\n --  "
+},
+{
+	"uri": "https://hyoromo.github.io/sound-game-training-android/jp/faq/",
+	"title": "よくある質問",
+	"tags": [],
+	"description": "",
+	"content": "メンテナンス中\n  Q. 動画再生するだけのアプリで音/リズムゲームの練習になるのでしょうか？   練習が捗る以下の事が行なえます。\n● 再生中に画面タップで一時停止しない\n● 再生範囲が設定出来る\n● 再生速度の調整が出来る\n● 動画画面の拡縮及び位置の移動が出来る\n苦手な箇所を低速再生しながら画面をタップするだけでも十分練習になります💪\nぜひ今日から繰り返し練習してみてください ♪~       Q. 縦向きにする事は出来ますか？   動画選択画面の左下にある「端末が回転している」アイコンをタップする事で向きを変更出来ます。\nもう一度タップすると横向きに戻ります。       Q. タッチ音を鳴らす事は出来ますか？   アプリ内の「設定  動画上のタッチ サウンド」から、タッチ音の設定が行えます。\nタッチ音は色々な種類を用意していますので、お好きな音を選んでください ♪~       Q. タッチ箇所を表示する事は出来ますか？   アプリ内の「設定  動画上のタッチ ポイント」から、タッチの表示設定が行えます。\n色と表示サイズも設定出来るのでお好みに合わせて調整してみてください ♪~       Q. 効果音の音量調整は行なえますか？   アプリ内では行えません。。。端末の音量を調整してください。\n本当はアプリ内で調整したいのですが、その方法だと端末スペックによっては効果音の再生が大きく遅れてしまう機種がありました。利用端末の平均スペックが上がって来たら対応するかもしれません。       Q. 疑似プレイ中にホームバーが邪魔でプレイし難いです。ホームバー設定は無いですか？   アプリ内の「設定  動画 ホームバー」から、1回目のホームバー操作を無視する設定が行えます。       Q. プレイ動画によってはタップ位置と一時停止ボタンが同じ場所で困っています。どうにかなりませんか？   一時停止ボタンをロングタップで反応するよう設定可能です。\nフォルダ一覧画面で「編集  動画上の設定  一時停止ボタン」からロングタップを選択する事で変更されます♪~       Q. 判定ライン表示のアプリ種類は何処から設定変更出来ますか？   フォルダ一覧画面で「編集 フォルダを選択  アプリ種類 」から設定出来ます。       Q. 音ズレを直せますか？   本アプリ内で音ズレを直す方法はありません。\nいつか対応したいとは思っています。       Q. 数秒だけ巻き戻し/早送りする機能はありますか？   あります。フォルダ/動画一覧画面の左下にある「フォルダ設定  早送り/巻き戻しボタン」から設定出来ます。\n動画画面上での表示位置、秒数の指定も出来るので調整してみてください ♪~       Q. 巻き戻し/早送りボタンを位置変更または非表示できますか？   位置の変更、非表示ともに出来ます。\n動画一覧画面の左下にある「フォルダ設定  早送り/巻き戻しボタン」から設定出来ます。       Q. YouTube動画の解像度が低いです。変更出来ませんか？   元の動画解像度によりますが、240p/360p/720pから選べるようになっています。初期設定は360pです。\n動画一覧画面の左下にある「共通設定  通信」から設定出来ます。       Q. ◯◯のアプリ種類はいつ増えますか？   最近のiOS端末もアス比種類が増えてきたため対応が難しくなっております。\nまた、音ゲー/リズムゲームアプリ側でライン位置調整可能なアプリが増えてきたため対応する意味が薄れて来てもいます。\nなのでアプリ種類の更新頻度は低くなっていますが、増やす気が全く無い訳ではありません。これからも少しずつ増やす予定でいます。     ## 要望/バグの連絡   Q. 要望は何処からすればいいですか？   アプリ内の動画一覧画面の左下の「問い合わせ」から送ってください。対応出来るかは分かりませんが検討します。\nAppStoreのレビューでは意図を汲み取れきれず見送る事があるので、メールでの問い合わせをオススメしています。       Q. バグは何処から報告すればいいですか？   アプリ内の動画一覧画面の左下の「問い合わせ」から送ってください。\nAppStoreのレビューだとやり取りが行い難いので対応出来ない事があります。なのでメールで問い合わせして貰えると助かります。       Q. YouTubeの動画がアプリ内で再生されなくなりました。これはバグですか？   すみません。。。バグの可能性が高いです。\nアプリ内の動画一覧画面の左下の「問い合わせ」から、再生されない動画URLを含めて連絡ください。       Q. カメラロールの動画がアプリ内で再生されなくなりました。これはバグですか？   カメラロールから動画を削除すると再生されなくなります。\n写真をiCloudへ保存する設定にすると後日再生不可能になります。iCloudにアップロードされた動画の方をアプリへ登録ください。\nカメラロールに動画があっても再生されない場合、アプリ/端末の再起動で問題が解決しないか試してみてください。     ## その他   Q. 広告はアプリ内課金で消せませんか？   課金導入には特定商取引法に基づき住所を公開する必要があるため、課金追加して広告除去アイテムの販売は行う予定がありません。       Q. 寄付は受け付けていますか？   左上のメニューの寄付リンク先から受け付けています。\n頂いた寄付は生きるための糧とさせて頂きます。       Q. Androidアプリは配信しないんですか？   配信する予定は今の所ありません。\n自分で使うために開発しているアプリなので、普段使いしていないAndroid向けに開発するモチベーションを持っていません。。。     --  "
+},
+{
+	"uri": "https://hyoromo.github.io/sound-game-training-android/jp/privacy/",
+	"title": "",
+	"tags": [],
+	"description": "",
+	"content": "Privacy Policy\nhyoromo built the Sound Game Training app as a Free app. This SERVICE is provided by hyoromo at no cost and is intended for use as is.\nThis page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.\nIf you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.\nThe terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible at Sound Game Training unless otherwise defined in this Privacy Policy.\nInformation Collection and Use\nFor a better experience, while using our Service, I may require you to provide us with certain personally identifiable information, including but not limited to hyoromo@gmail.com. The information that I request will be retained on your device and is not collected by me in any way.\nThe app does use third-party services that may collect information used to identify you.\nLink to the privacy policy of third-party service providers used by the app\n Google Play Services AdMob Google Analytics for Firebase Firebase Crashlytics  Log Data\nI want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.\nCookies\nCookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device\u0026rsquo;s internal memory.\nThis Service does not use these “cookies” explicitly. However, the app may use third-party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.\nService Providers\nI may employ third-party companies and individuals due to the following reasons:\n To facilitate our Service; To provide the Service on our behalf; To perform Service-related services; or To assist us in analyzing how our Service is used.  I want to inform users of this Service that these third parties have access to their Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.\nSecurity\nI value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.\nLinks to Other Sites\nThis Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.\nChildren’s Privacy\nThese Services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13 years of age. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do the necessary actions.\nChanges to This Privacy Policy\nI may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.\nThis policy is effective as of 2022-07-29\nContact Us\nIf you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at hyoromo@gmail.com.\nThis privacy policy page was created at privacypolicytemplate.net and modified/generated by App Privacy Policy Generator\n"
+},
+{
+	"uri": "https://hyoromo.github.io/sound-game-training-android/jp/categories/",
+	"title": "Categories",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://hyoromo.github.io/sound-game-training-android/jp/",
+	"title": "index",
+	"tags": [],
+	"description": "",
+	"content": "本サイトは v0.9.0 のAndroid版アプリ内容を元に記載しています。最新版と差異があるかもしれない点にご注意ください。\n 本アプリでは難しくてフルコンボ出来ない音楽/リズムゲームを『スロー』に『難所を繰り返し』で『何度でも』疑似プレイが行えます！\n画面左上のメニューにアプリ情報を掲載しています。\n --  "
+},
+{
+	"uri": "https://hyoromo.github.io/sound-game-training-android/jp/tags/",
+	"title": "Tags",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://hyoromo.github.io/sound-game-training-android/jp/chara/",
+	"title": "キャラ紹介",
+	"tags": [],
+	"description": "",
+	"content": " アプリ上ではチュートリアルやお知らせがある時に登場します。\nサト子は「英語表記アプリ名 \u0026ldquo;Sound game Training\u0026rdquo; する子」から付けた名前です。\nキャラクタデザイン者の情報はクレジットに表記しているので確認してみてください。\nそして以下のイラストはキャラクタ正式作成前の「デザイン案」と「アプリ使用箇所でのラフ絵」になります。\nデザイン案 ラフ絵 "
+},
+{
+	"uri": "https://hyoromo.github.io/sound-game-training-android/jp/credits/",
+	"title": "クレジット",
+	"tags": [],
+	"description": "",
+	"content": "クレジット アプリ開発 \u0026amp; サイト制作 hyoromo\nキャラクタデザイン Sin:cK\nサイト制作ツール Hugo\nhugo-theme-learn\n"
+}]

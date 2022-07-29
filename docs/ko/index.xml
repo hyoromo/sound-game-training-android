@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>index on 사운드 게임 교육 for Android</title>
+    <link>https://hyoromo.github.io/sound-game-training-android/ko/</link>
+    <description>Recent content in index on 사운드 게임 교육 for Android</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://hyoromo.github.io/sound-game-training-android/ko/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://hyoromo.github.io/sound-game-training-android/ko/privacy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hyoromo.github.io/sound-game-training-android/ko/privacy/</guid>
+      <description>Privacy Policy
+hyoromo built the Sound Game Training app as a Free app. This SERVICE is provided by hyoromo at no cost and is intended for use as is.
+This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
+If you choose to use my Service, then you agree to the collection and use of information in relation to this policy.</description>
+    </item>
+    
+    <item>
+      <title>캐릭터 소개</title>
+      <link>https://hyoromo.github.io/sound-game-training-android/ko/chara/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hyoromo.github.io/sound-game-training-android/ko/chara/</guid>
+      <description> 앱상에서는 튜토리얼이나 알림이 있을 때 등장합니다.
+사토코는 영어 표기 앱 이름 &amp;ldquo;Sound game Training&amp;rdquo; 하는 아이&amp;quot;에서 붙인 이름입니다.
+캐릭터 디자인자의 정보는 크레디트에 표기하고 있으므로 확인해 보세요. 그리고 이하의 일러스트는 캐릭터 정식 작성전의 「디자인안」과 「러프 그림」이 됩니다. 디자인안 러프 그림 </description>
+    </item>
+    
+    <item>
+      <title>크레딧 표시</title>
+      <link>https://hyoromo.github.io/sound-game-training-android/ko/credits/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hyoromo.github.io/sound-game-training-android/ko/credits/</guid>
+      <description>크레딧 표시 앱 개발 &amp;amp; 사이트 제작 hyoromo
+캐릭터 디자인 Sin:cK
+사이트 제작 도구 Hugo
+hugo-theme-learn</description>
+    </item>
+    
+  </channel>
+</rss>
