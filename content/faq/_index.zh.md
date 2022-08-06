@@ -5,21 +5,16 @@ pre: "<b>02. </b>"
 chapter: false
 ---
 
-维修中
-
-<!--
-
 ## 视频
 
 <!-- Q. 動画再生するだけのアプリで音/リズムゲームの練習になるのでしょうか？ -->
-<!--
 {{%expand "Q. 你能用一个只播放视频的应用来练习音乐游戏吗？" %}}
 <div class="balloon">
 你可以做以下事情来提高你的实践能力。<br>
 ● 在播放过程中，当您点击屏幕时，不会暂停<br>
 ● 您可以设置播放范围<br>
 ● 您可以调整播放速度<br>
-● 视频屏幕的扩展、收缩和位置移动<br>
+<!-- ● 视频屏幕的扩展、收缩和位置移动<br> -->
 <br>
 你可以在低速播放自己薄弱的部分时，通过点击屏幕进行练习💪<br>请从今天开始练习，重复练习 ♪~
 </div>
@@ -28,11 +23,9 @@ chapter: false
 <br>
 
 <!-- Q. 縦向きにする事は出来ますか？ -->
-<!--
 {{%expand "Q. 我可以将设备的屏幕方向改为纵向吗？" %}}
 <div class="balloon">
-"选择视频" 您可以通过点击屏幕左下角的 "设备正在旋转 "图标来改变方向。<br>
-再次点击返回到横向方向。
+你可以通过点击视频选择屏幕右上角的 "设备正在旋转" 图标来改变方向。
 </div>
 <div class="box"><img src="navi_001.png" alt="navi" class="img-right"></div>
 {{% /expand%}}
@@ -112,22 +105,20 @@ chapter: false
 <br>
 
 <!-- Q. 数秒だけ巻き戻し/早送りする機能はありますか？ -->
-<!--
 {{%expand "Q. 有没有倒带/快进几秒的功能？" %}}
 <div class="balloon">
-它的存在。 您可以在文件夹/视频列表界面左下方的 "文件夹设置 > 快进/后退按钮" 按钮中进行设置。<br>
-您还可以调整视频画面的显示位置和秒数 ♪~
+存在。 你可以从视频列表屏幕右上方的 "文件夹设置>快进/后退按钮" 中设置。<br>
+你还可以指定视频屏幕上的秒数，所以要调整好 ♪~
 </div>
 <div class="box"><img src="navi_002.png" alt="navi" class="img-right"></div>
 {{% /expand%}}
 <br>
 
 <!-- Q. 巻き戻し/早送りボタンを位置変更または非表示できますか？ -->
-<!--
 {{%expand "Q. 我可以重新定位或隐藏倒带/快进按钮吗？" %}}
 <div class="balloon">
-你可以改变或隐藏位置。<br>
-您可以在文件夹/视频列表界面左下方的 "文件夹设置 > 快进/后退按钮" 按钮中进行设置。
+位置不能改变，但可以隐藏。<br>
+你可以从视频列表屏幕右上方的 "文件夹设置>快进/后退按钮" 中设置。
 </div>
 <div class="box"><img src="navi_001.png" alt="navi" class="img-right"></div>
 {{% /expand%}}
@@ -151,34 +142,32 @@ chapter: false
 </div>
 <div class="box"><img src="navi_003.png" alt="navi" class="img-right"></div>
 {{% /expand%}}
+-->
 
 ## 要求/错误
 
 <!-- Q. 要望は何処からすればいいですか？ -->
-<!--
 {{%expand "Q. 我在哪里提出请求？" %}}
 <div class="balloon">
-请通过应用中的 "联系信息" 发送给我们。我们不能满足所有的要求，但我们会考虑。<br>我们也接受AppStore中的评论，但很难沟通。 当我不明白的时候，我就放弃了。
+请通过应用程序中视频列表屏幕右上角的 "反馈 "链接将其发送给我们。 我们不知道我们是否能够回应，但我们会考虑。<br>有时，Google Play的评论未能抓住我们的意图，我们不得不将其送走，因此我们建议你与你的反馈伙伴沟通。
 </div>
 <div class="box"><img src="navi_001.png" alt="navi" class="img-right"></div>
 {{% /expand%}}
 <br>
 
 <!-- Q. バグは何処から報告すればいいですか？ -->
-<!--
 {{%expand "Q. 我在哪里报告错误？" %}}
 <div class="balloon">
-请通过应用中的 "联系信息" 发送给我们。<br>在AppStore的评论区很难沟通。 无法确认该错误，可能会延迟响应。
+请通过应用程序中视频列表屏幕右上角的 "反馈" 链接将其发送给我们。 我们不知道我们是否能够回应，但我们会考虑。<br>有时，Google Play的评论未能抓住我们的意图，我们不得不将其送走，因此我们建议你与你的反馈伙伴沟通。
 </div>
 <div class="box"><img src="navi_001.png" alt="navi" class="img-right"></div>
 {{% /expand%}}
 <br>
 
 <!-- Q. YouTubeの動画がアプリ内で再生されなくなりました。これはバグですか？ -->
-<!--
 {{%expand "Q. YouTube视频不再在应用中播放。 这是一个bug吗？" %}}
 <div class="balloon">
-这很可能是一个bug。请通过应用中的 "联系信息" 与我们联系，包括无法播放的视频的URL。
+这很可能是一个bug。请通过应用程序中视频列表屏幕右上角的 "反馈" 与我们联系，包括不能播放的视频的URL。
 </div>
 <div class="box"><img src="navi_003.png" alt="navi" class="img-right"></div>
 {{% /expand%}}
@@ -192,11 +181,11 @@ chapter: false
 </div>
 <div class="box"><img src="navi_001.png" alt="navi" class="img-right"></div>
 {{% /expand%}}
+-->
 
 ## 其他
 
 <!-- Q. 広告はアプリ内課金で消せませんか？ -->
-<!--
 {{%expand "Q. 应用内购买不能隐藏广告吗？" %}}
 <div class="balloon">
 我们不打算出售广告删除项目。
@@ -206,7 +195,6 @@ chapter: false
 <br>
 
 <!-- Q. Donateは受け付けていますか？ -->
-<!--
 {{%expand "Q. 你们接受捐赠吗？" %}}
 <div class="balloon">
 我们接受来自左上方菜单捐赠链接的捐赠。<br>
@@ -215,13 +203,3 @@ chapter: false
 <div class="box"><img src="navi_001.png" alt="navi" class="img-right"></div>
 {{% /expand%}}
 <br>
-
-<!-- Q. Androidアプリは配信しないのですか？ -->
-<!--
-{{%expand "Q. 你们会在安卓系统上发布应用吗？" %}}
-<div class="balloon">
-目前还没有发行的计划。
-</div>
-<div class="box"><img src="navi_004.png" alt="navi" class="img-right"></div>
-{{% /expand%}}
--->
