@@ -10,7 +10,11 @@ title: index
 
 어려워서 Full combo 할 수 없는 음악 게임을 「저속」에 「어려운 부분을 반복」으로 몇번이라도 의사적으로 플레이 할 수 있습니다!<br>화면 왼쪽 상단의 메뉴에 앱 정보를 게재하고 있습니다.
 
-다운로드는 이하의 배너처로부터 실시해 주세요.<br>
+<span style="color: red"> ※※※ iOS 앱 버전에 비해 몇 가지 기능이 미실장입니다. 앞으로 일부 기능은 구현 예정입니다. ※※※</span>
+
+-------
+
+다운로드는 이하의 배너처로부터 실시해 주세요.<br><span style="color: red">앱은 현재 조기 액세스 중입니다. Google Play의 일반 검색에서는 히트하지 않습니다.</span><br>
 [![Google Play link](img_google-play-badge.ko.png#imgleft)](https://play.google.com/store/apps/details?id=jp.hyoromo.VideoSwing)
 <div class="clear clear_box"></div>
 

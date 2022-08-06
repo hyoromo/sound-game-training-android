@@ -10,7 +10,11 @@ title: index
 
 本アプリでは難しくてフルコンボ出来ない音楽/リズムゲームを『スロー』に『難所を繰り返し』で『何度でも』疑似プレイが行えます！<br>画面左上のメニューにアプリ情報を掲載しています。
 
-ダウンロードは以下のバナー先から行ってください。<br>
+<span style="color: red">※※※ iOSアプリ版に比べていくつか機能が未実装です。今後、いくつかの機能は実装予定です ※※※</span>
+
+-------
+
+ダウンロードは以下のバナー先から行ってください。<br><span style="color: red">なお現在、早期アクセス中です。Google Playの通常検索ではヒットしない事に注意ください。</span><br>
 [![Google Play link](img_google-play-badge.jp.png#imgleft)](https://play.google.com/store/apps/details?id=jp.hyoromo.VideoSwing)
 <div class="clear clear_box"></div>
 

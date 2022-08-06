@@ -10,7 +10,11 @@ This site is based on the contents of the v0.9.1 Android application. Please not
 
 You can play difficult and uncompleted music games as many times as you like with videos.<br>App information is listed in the menu at the top left of the screen.
 
-Please download from the banner below.<br>
+ <span style="color: red">*** Some features are not yet implemented compared to the iOS app version. Some features will be implemented in the future. ***</span>
+
+-------
+
+Please download from the banner below.<br><span style="color: red">Please note that the app is currently under early access and will not be found in the normal search on Google Play.</span><br>
 [![Google Play link](img_google-play-badge.en.png#imgleft)](https://play.google.com/store/apps/details?id=jp.hyoromo.VideoSwing)
 <div class="clear clear_box"></div>
 

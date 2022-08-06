@@ -10,7 +10,11 @@ title: index
 
 您可以使用視頻隨意玩困難和未完成的音樂遊戲。<br>應用信息在屏幕左上方的菜單中列出。
 
-請點擊下面的橫幅下載軟件。<br>
+ <span style="color: red">***與iOS應用版本相比，一些功能尚未實現。一些功能將在未來實現。 ***</span>
+
+-------
+
+請點擊下面的橫幅下載軟件。<br><span style="color: red">請注意，該應用程序目前正處於早期訪問階段，在Google Play的正常搜索中不會被發現。</span><br>
 [![Google Play link](img_google-play-badge.zh-tw.png#imgleft)](https://play.google.com/store/apps/details?id=jp.hyoromo.VideoSwing)
 <div class="clear clear_box"></div>
 
