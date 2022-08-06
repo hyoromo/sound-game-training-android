@@ -48,6 +48,11 @@ weight = 1
 languageName = "English"
 
 [[Languages.en.menu.shortcuts]]
+name = "<i class='fas fa-home'></i> General Site"
+url = "https://hyoromo.github.io/sound-game-training-universal/"
+weight = 9
+
+[[Languages.en.menu.shortcuts]]
 name = "<i class='fas fa-smile'></i> Character Introduction"
 url = "https://hyoromo.github.io/sound-game-training-android/chara"
 weight = 10
@@ -72,6 +77,11 @@ weight = 13
 title = "音ゲートレーニング for Android"
 weight = 2
 languageName = "日本語"
+
+[[Languages.jp.menu.shortcuts]]
+name = "<i class='fas fa-home'></i> 総合サイト"
+url = "https://hyoromo.github.io/sound-game-training-universal/jp/"
+weight = 9
 
 [[Languages.jp.menu.shortcuts]]
 name = "<i class='fas fa-smile'></i> キャラ紹介"
@@ -100,6 +110,11 @@ weight = 3
 languageName = "简体中文"
 
 [[Languages.zh.menu.shortcuts]]
+name = "<i class='fas fa-home'></i> 一般网站"
+url = "https://hyoromo.github.io/sound-game-training-universal/zh/"
+weight = 9
+
+[[Languages.zh.menu.shortcuts]]
 name = "<i class='fas fa-smile'></i> 人物介绍"
 url = "https://hyoromo.github.io/sound-game-training-androidzh/chara"
 weight = 10
@@ -126,6 +141,11 @@ weight = 4
 languageName = "繁體中文"
 
 [[Languages.zh-TW.menu.shortcuts]]
+name = "<i class='fas fa-home'></i> 一般網站"
+url = "https://hyoromo.github.io/sound-game-training-universal/zh-tw/"
+weight = 9
+
+[[Languages.zh-TW.menu.shortcuts]]
 name = "<i class='fas fa-smile'></i> 人物介紹"
 url = "https://hyoromo.github.io/sound-game-training-android/zh-tw/chara"
 weight = 10
@@ -150,6 +170,11 @@ weight = 13
 title = "사운드 게임 교육 for Android"
 weight = 2
 languageName = "한국어"
+
+[[Languages.ko.menu.shortcuts]]
+name = "<i class='fas fa-home'></i> 종합 사이트"
+url = "https://hyoromo.github.io/sound-game-training-universal/ko/"
+weight = 9
 
 [[Languages.ko.menu.shortcuts]]
 name = "<i class='fas fa-smile'></i> 캐릭터 소개"
