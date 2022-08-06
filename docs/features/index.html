@@ -11,21 +11,21 @@
     <title>Features :: Sound Game Training for Android</title>
 
     
-    <link href="/sound-game-training-android/css/nucleus.css?1659787597" rel="stylesheet">
-    <link href="/sound-game-training-android/css/fontawesome-all.min.css?1659787597" rel="stylesheet">
-    <link href="/sound-game-training-android/css/hybrid.css?1659787597" rel="stylesheet">
-    <link href="/sound-game-training-android/css/featherlight.min.css?1659787597" rel="stylesheet">
-    <link href="/sound-game-training-android/css/perfect-scrollbar.min.css?1659787597" rel="stylesheet">
-    <link href="/sound-game-training-android/css/auto-complete.css?1659787597" rel="stylesheet">
-    <link href="/sound-game-training-android/css/atom-one-dark-reasonable.css?1659787597" rel="stylesheet">
-    <link href="/sound-game-training-android/css/theme.css?1659787597" rel="stylesheet">
-    <link href="/sound-game-training-android/css/hugo-theme.css?1659787597" rel="stylesheet">
+    <link href="/sound-game-training-android/css/nucleus.css?1659791918" rel="stylesheet">
+    <link href="/sound-game-training-android/css/fontawesome-all.min.css?1659791918" rel="stylesheet">
+    <link href="/sound-game-training-android/css/hybrid.css?1659791918" rel="stylesheet">
+    <link href="/sound-game-training-android/css/featherlight.min.css?1659791918" rel="stylesheet">
+    <link href="/sound-game-training-android/css/perfect-scrollbar.min.css?1659791918" rel="stylesheet">
+    <link href="/sound-game-training-android/css/auto-complete.css?1659791918" rel="stylesheet">
+    <link href="/sound-game-training-android/css/atom-one-dark-reasonable.css?1659791918" rel="stylesheet">
+    <link href="/sound-game-training-android/css/theme.css?1659791918" rel="stylesheet">
+    <link href="/sound-game-training-android/css/hugo-theme.css?1659791918" rel="stylesheet">
     
-    <link href="/sound-game-training-android/css/theme-mine.css?1659787597" rel="stylesheet">
+    <link href="/sound-game-training-android/css/theme-mine.css?1659791918" rel="stylesheet">
     
-    <link href="/sound-game-training-android/css/foo.css?1659787597" rel="stylesheet"><link href="/sound-game-training-android/css/bar.css?1659787597" rel="stylesheet">
+    <link href="/sound-game-training-android/css/foo.css?1659791918" rel="stylesheet"><link href="/sound-game-training-android/css/bar.css?1659791918" rel="stylesheet">
 
-    <script src="/sound-game-training-android/js/jquery-3.3.1.min.js?1659787597"></script>
+    <script src="/sound-game-training-android/js/jquery-3.3.1.min.js?1659791918"></script>
 
     <style>
       :root #header + #content > #left > #rlblock_left{
@@ -53,14 +53,14 @@
     <span data-search-clear=""><i class="fas fa-times"></i></span>
 </div>
 
-<script type="text/javascript" src="/sound-game-training-android/js/lunr.min.js?1659787597"></script>
-<script type="text/javascript" src="/sound-game-training-android/js/auto-complete.js?1659787597"></script>
+<script type="text/javascript" src="/sound-game-training-android/js/lunr.min.js?1659791918"></script>
+<script type="text/javascript" src="/sound-game-training-android/js/auto-complete.js?1659791918"></script>
 <script type="text/javascript">
     
         var baseurl = "https:\/\/hyoromo.github.io\/sound-game-training-android\/";
     
 </script>
-<script type="text/javascript" src="/sound-game-training-android/js/search.js?1659787597"></script>
+<script type="text/javascript" src="/sound-game-training-android/js/search.js?1659791918"></script>
 
     
   </div>
@@ -305,7 +305,17 @@
                 
                     <div class="progress">
     <div class="wrapper">
-<nav id="TableOfContents"></nav>
+<nav id="TableOfContents">
+  <ul>
+    <li><a href="#adding-a-playback-video">Adding a Playback Video</a>
+      <ul>
+        <li></li>
+      </ul>
+    </li>
+    <li><a href="#pseudo-play">Pseudo-play</a></li>
+    <li><a href="#bookmark-the-playback-position">Bookmark the playback position</a></li>
+  </ul>
+</nav>
     </div>
 </div>
 
@@ -329,133 +339,58 @@
 
 
 
-	<p>Under Maintenance</p>
-<!--
-
-
-"Sound game training" app is an app for practicing sound games.<br>
-You can check the notes by playing back the video, and you can also pseudo-play by touching on the video.
-
-## Adding a Playback Video
-
-There are four ways to add videos to be played in the app.
-
-#### Camera roll
-
-The camera roll is the place where videos are saved when you take a video on your device. You can view it from the Photos app.<br>
-Here's how you can add them in this app.
-
-1. Open the "Video List" screen
-2. Click on the "Add Video" button at the bottom right of the screen
-3. Select "Camera Roll" from the list of alternatives
-4. Select the video you want to add
-5. Enter your registration information and click the "Add" button
-
-After this step, you can return to the "Video List" screen and your added videos will be in the list.
-
-#### iCloud Drive
-
-iCloud Drive is an online storage service provided by Apple. You can view it from the Files app.<br>
-Here's how you can add them in this app.
-
-1. Open the "Video List" screen
-2. Click on the "Add Video" button at the bottom right of the screen
-3. Select "iCloud Drive" from the list of alternatives
-4. Select the video you want to add
-5. Enter your registration information and click the "Add" button
-
-After this step, you can return to the "Video List" screen and your added videos will be in the list.
-
-#### Transfer from PC
-
-It's a way to transfer videos from the Music (formerly iTunes) app on your PC to your device's app storage.<br>
-"<a href= "https://support.apple.com/en-us/HT201301" >Use iTunes to share files between your computer and your iOS or iPadOS device</a>" page will tell you how to transfer it to the app, please refer here.<br>
-Here's how you can add them in this app.
-
-1. Open the "Video List" screen
-2. Click on the "Add Video" button at the bottom right of the screen
-3. Select "Within the app" from the list of alternatives
-4. Select the video you want to add
-5. Enter your registration information and click the "Add" button
-
-After this step, you can return to the "Video List" screen and your added videos will be in the list.
-
-#### Play YouTube video
-
-YouTube is a video sharing service from Google. Videos of sound games uploaded by others exist.<br>
-Here's how you can add them in this app.
-
-1. Open the "Video List" screen
-2. Click on the "Add Video" button at the bottom right of the screen
-3. Select "YouTube" from the list of alternatives
-4. Open the video page you want to add from the YouTube site
-5. Click the "Add video" button at the bottom right of the video page
-6. Enter your registration information and click the "Add" button
-
-After this step, you can return to the "Video List" screen and your added videos will be in the list.
-
+	<p>&ldquo;Sound game training&rdquo; app is an app for practicing sound games.<br>
+You can check the notes by playing back the video, and you can also pseudo-play by touching on the video.</p>
+<h2 id="adding-a-playback-video">Adding a Playback Video</h2>
+<p>There are two ways to add videos to be played in the app.</p>
+<h4 id="in-device">In Device</h4>
+<p>Play the video in the device.<br>
+Here&rsquo;s how you can add them in this app.</p>
+<ol>
+<li>Open the &ldquo;Video List&rdquo; screen</li>
+<li>Click on the &ldquo;+&rdquo; button at the bottom right of the screen</li>
+<li>Select &ldquo;In Device&rdquo; from the list of alternatives</li>
+<li>Select the video you want to add</li>
+<li>Enter your registration information and click the &ldquo;Add&rdquo; button</li>
+</ol>
+<p>After this step, you can return to the &ldquo;Video List&rdquo; screen and your added videos will be in the list.</p>
+<h4 id="play-youtube-video">Play YouTube video</h4>
+<p>YouTube is a video sharing service from Google. Videos of sound games uploaded by others exist.<br>
+Here&rsquo;s how you can add them in this app.</p>
+<ol>
+<li>Open the &ldquo;Video List&rdquo; screen</li>
+<li>Click on the &ldquo;+&rdquo; button at the bottom right of the screen</li>
+<li>Select &ldquo;YouTube&rdquo; from the list of alternatives</li>
+<li>Open the video page you want to add from the YouTube site</li>
+<li>Click the &ldquo;Add video&rdquo; button at the bottom right of the video page</li>
+<li>Enter your registration information and click the &ldquo;Add&rdquo; button</li>
+</ol>
+<p>After this step, you can return to the &ldquo;Video List&rdquo; screen and your added videos will be in the list.</p>
 
 <div class="notices note" ><p>Since the app does not download YouTube videos, a traffic volume is generated every time a video is played on this app.</p>
 </div>
 
-
-
-## Pseudo-play
-
-You won't be paused by tapping on the playing video screen.<br>
-So you can play a pseudo sound game.<br>
-
-There are many other features that make it easier to practice.
-
-- Adjust the video playback speed<br>You can adjust the playback speed in the range of 0.25-2.00x speed
-- Adjust the start/end position of video playback<br>You can set the start and end of the play range to focus on the difficult parts of the game
+<h2 id="pseudo-play">Pseudo-play</h2>
+<p>You won&rsquo;t be paused by tapping on the playing video screen.<br>
+So you can play a pseudo sound game.<br></p>
+<p>There are many other features that make it easier to practice.</p>
+<ul>
+<li>Adjust the video playback speed<br>You can adjust the playback speed in the range of 0.25-2.00x speed</li>
+<li>Adjust the start/end position of video playback<br>You can set the start and end of the play range to focus on the difficult parts of the game</li>
+</ul>
+<!--
 - Zoom in/out and adjust the position of the video<br>Scaling and positioning can be done to make the video fit the device resolution
 - Flipping the video screen<br>The video screen can be flipped left to right
 - Support for both portrait and landscape video<br>You can fix your device orientation in portrait or landscape mode
-- Shortcut button to rewind/fast-forward for a few seconds during playback<br>The shortcut button is set up so that you can easily manipulate the time without having to pause and operate the seek bar
-
-## Bookmark the playback position
-
-![video scale](img_video_bookmark.png#imgleft)
+-->
+<ul>
+<li>Shortcut button to rewind/fast-forward for a few seconds during playback<br>The shortcut button is set up so that you can easily manipulate the time without having to pause and operate the seek bar</li>
+</ul>
+<h2 id="bookmark-the-playback-position">Bookmark the playback position</h2>
+<p><img src="img_video_bookmark.png#imgleft" alt="video scale"></p>
 <div class="clear clear_box"></div>
 There is a function to register the start/end position of video playback as a bookmark.<br>
 By setting the start/end position of playback for each number, you can quickly switch the playback position for the part you want to practice.<br>
-
-## Supports a variety of game touchlines
-
-![video scale](img_video_scale.png#imgleft)
-<div class="clear clear_box"></div>
-The touchline of the sound game is often different for each device. The touchline position of the desired video and the device may be different.<br>
-To address this issue, the app supports a guide display to help you align the touchline on your device.<br><br>
-Supported games are listed below.<br>
-
-- Deemo
-- VOEZ
-- Arcaea
-- Dynamix
-- BanG Dream!
-- Project Sekai Colorful Stage! feat. Hatsune Miku
-- THE IDOLM@STER MILLION LIVE! Theater Days
-- THE IDOLM@STER CINDERELLA GIRLS STARLIGHT STAGE
-- THE IDOLM@STER SideM GROWING STARS
-- Love Live! School idol festival
-- HYPNOSISMIC -A.R.B-
-- Ensemble Stars!! Music
-- Re:Stage! Prism Step
-- D4DJ Groovy Mix
-- Tokyo 7th Sisters
-- Uta Macross
-- Girlfriend (note)
-- Touhou Danmaku Kagura
-
-
-<div class="notices warning" ><p>Depending on the device where you filmed the play video, you may not be able to adjust to the touch position.</p>
-</div>
-
-
---><blockquote>
-</blockquote>
-
 
 
 
@@ -541,19 +476,19 @@ Supported games are listed below.<br>
     <div style="left: -1000px; overflow: scroll; position: absolute; top: -1000px; border: none; box-sizing: content-box; height: 200px; margin: 0px; padding: 0px; width: 200px;">
       <div style="border: none; box-sizing: content-box; height: 200px; margin: 0px; padding: 0px; width: 200px;"></div>
     </div>
-    <script src="/sound-game-training-android/js/clipboard.min.js?1659787597"></script>
-    <script src="/sound-game-training-android/js/perfect-scrollbar.min.js?1659787597"></script>
-    <script src="/sound-game-training-android/js/perfect-scrollbar.jquery.min.js?1659787597"></script>
-    <script src="/sound-game-training-android/js/jquery.sticky.js?1659787597"></script>
-    <script src="/sound-game-training-android/js/featherlight.min.js?1659787597"></script>
-    <script src="/sound-game-training-android/js/highlight.pack.js?1659787597"></script>
+    <script src="/sound-game-training-android/js/clipboard.min.js?1659791918"></script>
+    <script src="/sound-game-training-android/js/perfect-scrollbar.min.js?1659791918"></script>
+    <script src="/sound-game-training-android/js/perfect-scrollbar.jquery.min.js?1659791918"></script>
+    <script src="/sound-game-training-android/js/jquery.sticky.js?1659791918"></script>
+    <script src="/sound-game-training-android/js/featherlight.min.js?1659791918"></script>
+    <script src="/sound-game-training-android/js/highlight.pack.js?1659791918"></script>
     <script>hljs.initHighlightingOnLoad();</script>
-    <script src="/sound-game-training-android/js/modernizr.custom-3.6.0.js?1659787597"></script>
-    <script src="/sound-game-training-android/js/learn.js?1659787597"></script>
-    <script src="/sound-game-training-android/js/hugo-learn.js?1659787597"></script>
+    <script src="/sound-game-training-android/js/modernizr.custom-3.6.0.js?1659791918"></script>
+    <script src="/sound-game-training-android/js/learn.js?1659791918"></script>
+    <script src="/sound-game-training-android/js/hugo-learn.js?1659791918"></script>
 
-    <link href="/sound-game-training-android/mermaid/mermaid.css?1659787597" rel="stylesheet" />
-    <script src="/sound-game-training-android/mermaid/mermaid.js?1659787597"></script>
+    <link href="/sound-game-training-android/mermaid/mermaid.css?1659791918" rel="stylesheet" />
+    <script src="/sound-game-training-android/mermaid/mermaid.js?1659791918"></script>
     <script>
         mermaid.initialize({ startOnLoad: true });
     </script>
