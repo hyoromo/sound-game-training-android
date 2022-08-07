@@ -14,7 +14,7 @@ title: index
 
 -------
 
-請點擊下面的橫幅下載軟件。<br><span style="color: red">請注意，該應用程序目前正處於早期訪問階段，在Google Play的正常搜索中不會被發現。</span><br>
+請點擊下面的橫幅下載軟件。<br><span style="color: red">請注意，該應用程序目前正處於早期訪問階段。</span><br>
 [![Google Play link](img_google-play-badge.zh-tw.png#imgleft)](https://play.google.com/store/apps/details?id=jp.hyoromo.VideoSwing)
 <div class="clear clear_box"></div>
 

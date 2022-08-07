@@ -14,7 +14,7 @@ title: index
 
 -------
 
-ダウンロードは以下のバナー先から行ってください。<br><span style="color: red">なお現在、早期アクセス中です。Google Playの通常検索ではヒットしない事に注意ください。</span><br>
+ダウンロードは以下のバナー先から行ってください。<br><span style="color: red">現在、早期アクセス中です。</span><br>
 [![Google Play link](img_google-play-badge.jp.png#imgleft)](https://play.google.com/store/apps/details?id=jp.hyoromo.VideoSwing)
 <div class="clear clear_box"></div>
 

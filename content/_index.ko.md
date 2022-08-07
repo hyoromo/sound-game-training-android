@@ -14,7 +14,7 @@ title: index
 
 -------
 
-다운로드는 이하의 배너처로부터 실시해 주세요.<br><span style="color: red">앱은 현재 조기 액세스 중입니다. Google Play의 일반 검색에서는 히트하지 않습니다.</span><br>
+다운로드는 이하의 배너처로부터 실시해 주세요.<br><span style="color: red">앱은 현재 조기 액세스 중입니다.</span><br>
 [![Google Play link](img_google-play-badge.ko.png#imgleft)](https://play.google.com/store/apps/details?id=jp.hyoromo.VideoSwing)
 <div class="clear clear_box"></div>
 
