@@ -179,11 +179,3 @@ chapter: false
 <div class="box"><img src="navi_001.png" alt="navi" class="img-right"></div>
 {{% /expand%}}
 <br>
-
-{{%expand "Q. Androidアプリは配信しないんですか？" %}}
-<div class="balloon">
-配信する予定は今の所ありません。<br>
-自分で使うために開発しているアプリなので、普段使いしていないAndroid向けに開発するモチベーションを持っていません。。。
-</div>
-<div class="box"><img src="navi_004.png" alt="navi" class="img-right"></div>
-{{% /expand%}}
