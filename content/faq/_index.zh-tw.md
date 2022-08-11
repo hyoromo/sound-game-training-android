@@ -14,7 +14,7 @@ chapter: false
 ● 在播放過程中，當您點擊屏幕時，不會暫停<br>
 ● 您可以設置播放範圍<br>
 ● 您可以調整播放速度<br>
-<!-- ● 視頻屏幕的擴展、收縮和位置移動<br> -->
+● 視頻屏幕的擴展、收縮和位置移動<br>
 <br>
 你可以在低速播放自己薄弱的部分时，通过点击屏幕进行练习💪<br>請從今天開始練習，重複練習♪~
 </div>
@@ -63,34 +63,13 @@ chapter: false
 {{% /expand%}}
 <br>
 
-<!-- Q. 疑似プレイ中にホームバーが邪魔でプレイし難いです。ホームバー設定は無いですか？ -->
-<!--
-{{%expand "Q. \"Home Bar\" 的存在，讓人難以發揮。不是有 \"Home Bar\" 的設置嗎？" %}}
-<div class="balloon">
-在應用中的 "設置 > 視頻 > Home Bar" 中可以忽略第一個 "Home Bar" 操作。
-</div>
-<div class="box"><img src="navi_001.png" alt="navi" class="img-right"></div>
-{{% /expand%}}
-<br>
-
 <!-- Q. プレイ動画によってはタップ位置と一時停止ボタンが同じ場所で困っています。どうにかなりませんか？ -->
-<!--
 {{%expand "Q. 在一些視頻中，我遇到了點擊位置和暫停按鈕在同一個地方的問題。你能解決這個問題嗎？" %}}
 <div class="balloon">
 你可以將暫停按鈕改為長按。<br>
-您可以在 "文件夾列表" 頁面的 "編輯 > 视频的设置 > 暫停按鈕" 中更改設置為長按。
+這可以通過在視頻列表屏幕上的右上角按鈕選擇 "文件夾設置>暫停按鈕 "並選擇長點來改變 ♪~
 </div>
 <div class="box"><img src="navi_002.png" alt="navi" class="img-right"></div>
-{{% /expand%}}
-<br>
-
-<!-- Q. アプリの判定ライン表示の設定は何処から行えますか？ -->
-<!--
-{{%expand "Q. 哪裡可以設置App的觸控線顯示？" %}}
-<div class="balloon">
-在 "文件夾列表" 頁面，進入 "編輯 > 選擇文件夾 > 應用類型" 即可進行設置。
-</div>
-<div class="box"><img src="navi_001.png" alt="navi" class="img-right"></div>
 {{% /expand%}}
 <br>
 
@@ -134,16 +113,6 @@ chapter: false
 {{% /expand%}}
 <br>
 
-<!-- Q. ◯◯のアプリ種類はいつ増えますか？ -->
-<!--
-{{%expand "Q. \"xxx\" 應用類型何時才能增加？" %}}
-<div class="balloon">
-由於不同比例的增加，很難支持最近的iOS設備。此外，隨著越來越多的App能夠在音樂遊戲App端調整觸控線的位置，也就沒有再支持的意義了。<br>所以應用類型的更新頻率較低，但並不代表完全沒有增加頻率的慾望。
-</div>
-<div class="box"><img src="navi_003.png" alt="navi" class="img-right"></div>
-{{% /expand%}}
--->
-
 ## 要求/錯誤
 
 <!-- Q. 要望は何処からすればいいですか？ -->
@@ -172,16 +141,6 @@ chapter: false
 <div class="box"><img src="navi_003.png" alt="navi" class="img-right"></div>
 {{% /expand%}}
 <br>
-
-<!-- Q. カメラロールの動画がアプリ内で再生されなくなりました。これはバグですか？ -->
-<!--
-{{%expand "Q. 我的相機捲中的視頻不再在應用程序中播放。這是一個錯誤嗎？" %}}
-<div class="balloon">
-如果你從你的相機捲中刪除了一個視頻，它將不再播放。<br>如果照片被設置為保存在iCloud上，以後就不能再播放了。請將上傳到iCloud的視頻註冊到該應用程序。<br>如果你的相機捲裡有一個視頻，但它不能播放，試著重新啟動應用程序/設備，看看是否能解決問題。
-</div>
-<div class="box"><img src="navi_001.png" alt="navi" class="img-right"></div>
-{{% /expand%}}
--->
 
 ## 其他
 

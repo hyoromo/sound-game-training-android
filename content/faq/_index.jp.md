@@ -13,7 +13,7 @@ chapter: false
 ● 再生中に画面タップで一時停止しない<br>
 ● 再生範囲が設定出来る<br>
 ● 再生速度の調整が出来る<br>
-<!-- ● 動画画面の拡縮及び位置の移動が出来る<br> -->
+● 動画画面の拡縮及び位置の移動が出来る<br>
 <br>
 苦手な箇所を低速再生しながら画面をタップするだけでも十分練習になります💪<br>ぜひ今日から繰り返し練習してみてください ♪~
 </div>
@@ -54,32 +54,18 @@ chapter: false
 <div class="box"><img src="navi_004.png" alt="navi" class="img-right"></div>
 {{% /expand%}}
 <br>
-
-{{%expand "Q. 疑似プレイ中にホームバーが邪魔でプレイし難いです。ホームバー設定は無いですか？" %}}
-<div class="balloon">
-アプリ内の「設定 > 動画 ホームバー」から、1回目のホームバー操作を無視する設定が行えます。
-</div>
-<div class="box"><img src="navi_001.png" alt="navi" class="img-right"></div>
-{{% /expand%}}
-<br>
+-->
 
 {{%expand "Q. プレイ動画によってはタップ位置と一時停止ボタンが同じ場所で困っています。どうにかなりませんか？" %}}
 <div class="balloon">
 一時停止ボタンをロングタップで反応するよう設定可能です。<br>
-フォルダ一覧画面で「編集 > 動画上の設定 > 一時停止ボタン」からロングタップを選択する事で変更されます♪~
+動画一覧画面の右上ボタンから「フォルダ設定 > 一時停止ボタン」からロングタップを選択する事で変更されます♪~
 </div>
 <div class="box"><img src="navi_002.png" alt="navi" class="img-right"></div>
 {{% /expand%}}
 <br>
 
-{{%expand "Q. 判定ライン表示のアプリ種類は何処から設定変更出来ますか？" %}}
-<div class="balloon">
-フォルダ一覧画面で「編集> フォルダを選択 > アプリ種類 」から設定出来ます。
-</div>
-<div class="box"><img src="navi_001.png" alt="navi" class="img-right"></div>
-{{% /expand%}}
-<br>
-
+<!--
 {{%expand "Q. 音ズレを直せますか？" %}}
 <div class="balloon">
 本アプリ内で音ズレを直す方法はありません。<br>いつか対応したいとは思っています。
@@ -87,7 +73,6 @@ chapter: false
 <div class="box"><img src="navi_003.png" alt="navi" class="img-right"></div>
 {{% /expand%}}
 <br>
-
 -->
 
 {{%expand "Q. 数秒だけ巻き戻し/早送りする機能はありますか？" %}}
@@ -115,14 +100,6 @@ chapter: false
 <div class="box"><img src="navi_002.png" alt="navi" class="img-right"></div>
 {{% /expand%}}
 <br>
-
-{{%expand "Q. ◯◯のアプリ種類はいつ増えますか？" %}}
-<div class="balloon">
-最近のiOS端末もアス比種類が増えてきたため対応が難しくなっております。<br>
-また、音ゲー/リズムゲームアプリ側でライン位置調整可能なアプリが増えてきたため対応する意味が薄れて来てもいます。<br>なのでアプリ種類の更新頻度は低くなっていますが、増やす気が全く無い訳ではありません。これからも少しずつ増やす予定でいます。
-</div>
-<div class="box"><img src="navi_003.png" alt="navi" class="img-right"></div>
-{{% /expand%}}
 -->
 
 ## 要望/バグの連絡

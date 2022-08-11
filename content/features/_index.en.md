@@ -53,11 +53,11 @@ There are many other features that make it easier to practice.
 
 - Adjust the video playback speed<br>You can adjust the playback speed in the range of 0.25-2.00x speed
 - Adjust the start/end position of video playback<br>You can set the start and end of the play range to focus on the difficult parts of the game
-<!--
 - Zoom in/out and adjust the position of the video<br>Scaling and positioning can be done to make the video fit the device resolution
+<!--
 - Flipping the video screen<br>The video screen can be flipped left to right
-- Support for both portrait and landscape video<br>You can fix your device orientation in portrait or landscape mode
 -->
+- Support for both portrait and landscape video<br>You can fix your device orientation in portrait or landscape mode
 - Shortcut button to rewind/fast-forward for a few seconds during playback<br>The shortcut button is set up so that you can easily manipulate the time without having to pause and operate the seek bar
 
 ## Bookmark the playback position

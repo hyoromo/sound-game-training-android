@@ -14,7 +14,7 @@ You can do the following things to improve your practice.<br>
 ● No pausing by tapping the screen during playback<br>
 ● You can set the playback range<br>
 ● You can adjust the playback speed<br>
-<!-- ● Video expansion, contraction and movement is possible<br> -->
+● Video expansion, contraction and movement is possible<br>
 <br>
 Just tapping the screen while playing the part you're weak in is good enough practice 💪<br>So start practicing today ♪~
 </div>
@@ -62,35 +62,15 @@ You cannot do this in the app. Please adjust the volume on your device.
 <div class="box"><img src="navi_004.png" alt="navi" class="img-right"></div>
 {{% /expand%}}
 <br>
-
-<!-- Q. 疑似プレイ中にホームバーが邪魔でプレイし難いです。ホームバー設定は無いですか？ -->
-<!--
-{{%expand "Q. The home bar gets in the way during pseudo-play, making it difficult to play. Is there a home bar setting?" %}}
-<div class="balloon">
-You can ignore the first home bar operation from "Settings > Video > Home Bar" in the app.
-</div>
-<div class="box"><img src="navi_001.png" alt="navi" class="img-right"></div>
-{{% /expand%}}
-<br>
+-->
 
 <!-- Q. プレイ動画によってはタップ位置と一時停止ボタンが同じ場所で困っています。どうにかなりませんか？ -->
-<!--
 {{%expand "Q. I'm having trouble with the tap position and pause button being in the same place in some play videos. Can you fix this problem?" %}}
 <div class="balloon">
 You can change the pause button to a long tap.<br>
-On the "Folder List" screen, you can select "Edit > Settings on Video > Pause button" to change to long tap.
+The button is changed by selecting "Folder Settings > Pause Button" from the upper right button on the video list screen, and then selecting long tap ♪~
 </div>
 <div class="box"><img src="navi_002.png" alt="navi" class="img-right"></div>
-{{% /expand%}}
-<br>
-
-<!-- Q. アプリの判定ライン表示の設定は何処から行えますか？ -->
-<!--
-{{%expand "Q. Where can I set up the app's touchline display?" %}}
-<div class="balloon">
-On the "Folder List" screen, you can set it up by going to "Edit > Select Folder > App Type".
-</div>
-<div class="box"><img src="navi_001.png" alt="navi" class="img-right"></div>
 {{% /expand%}}
 <br>
 
@@ -133,16 +113,6 @@ You can choose from 240p/360p/720p. The default setting is 360p.<br>You can conf
 <div class="box"><img src="navi_002.png" alt="navi" class="img-right"></div>
 {{% /expand%}}
 <br>
-
-<!-- Q. ◯◯のアプリ種類はいつ増えますか？ -->
-<!--
-{{%expand "Q. When will the \"xxx\" app type be added?" %}}
-<div class="balloon">
-It is difficult to support the recent iOS devices due to the increase in the number of different ratios. In addition, there are more and more apps that allow you to adjust the touchline position on the sound game app side, so it is not worth it.<br>This is why the frequency of updating the app types is low. However, that doesn't mean we don't want to increase the frequency.
-</div>
-<div class="box"><img src="navi_003.png" alt="navi" class="img-right"></div>
-{{% /expand%}}
--->
 
 ## Requests/bugs
 
