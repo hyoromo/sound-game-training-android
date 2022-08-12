@@ -62,7 +62,16 @@ YouTube動画をダウンロードする訳ではないため、本アプリで�
 
 ## 再生位置をブックマーク
 
-![video scale](img_video_bookmark.png#imgleft)
+![video bookmark](img_video_bookmark.png#imgleft)
 <div class="clear clear_box"></div>
 動画の再生開始/終了位置をブックマーク登録する機能があります。<br>
 番号毎に再生開始/終了位置を設定しておくと、練習したい箇所の再生位置を手早く切り替える事が出来ます。<br>
+
+## 動画の拡大/縮小、位置移動
+
+![video zoom](img_video_zoom.png#imgleft)
+<div class="clear clear_box"></div>
+
+ピンチイン/アウトで拡縮、スワイプで位置移動できます。<br>
+ゲームのスクリーンショットをアプリへ取り込めます。透過画像を見ながら調整ください。
+<br>

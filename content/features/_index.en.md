@@ -66,3 +66,12 @@ There are many other features that make it easier to practice.
 <div class="clear clear_box"></div>
 There is a function to register the start/end position of video playback as a bookmark.<br>
 By setting the start/end position of playback for each number, you can quickly switch the playback position for the part you want to practice.<br>
+
+## Enlarge/reduce video, move position
+
+![video zoom](img_video_zoom.png#imgleft)
+<div class="clear clear_box"></div>
+
+Pinch in/out to zoom in/out, swipe to move position.<br>
+You can import screenshots of games into the application. Adjust the transparency of the image as you see it.
+<br>
