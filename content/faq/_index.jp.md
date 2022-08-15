@@ -28,6 +28,14 @@ chapter: false
 {{% /expand%}}
 <br>
 
+{{%expand "Q. タッチの表示や音を鳴らす事は出来ますか？" %}}
+<div class="balloon">
+本アプリでは行えません。<br>いつか対応したいとは思っています。
+</div>
+<div class="box"><img src="navi_003.png" alt="navi" class="img-right"></div>
+{{% /expand%}}
+<br>
+
 <!--
 {{%expand "Q. タッチ音を鳴らす事は出来ますか？" %}}
 <div class="balloon">
@@ -65,7 +73,6 @@ chapter: false
 {{% /expand%}}
 <br>
 
-<!--
 {{%expand "Q. 音ズレを直せますか？" %}}
 <div class="balloon">
 本アプリ内で音ズレを直す方法はありません。<br>いつか対応したいとは思っています。
@@ -73,7 +80,6 @@ chapter: false
 <div class="box"><img src="navi_003.png" alt="navi" class="img-right"></div>
 {{% /expand%}}
 <br>
--->
 
 {{%expand "Q. 数秒だけ巻き戻し/早送りする機能はありますか？" %}}
 <div class="balloon">

@@ -31,6 +31,15 @@ chapter: false
 {{% /expand%}}
 <br>
 
+<!-- Q. タッチの表示や音を鳴らす事は出来ますか？ -->
+{{%expand "Q. 是否可以制作触摸显示和声音？" %}}
+<div class="balloon">
+你不能用这个应用程序做到这一点。<br>我想有一天支持它。
+</div>
+<div class="box"><img src="navi_003.png" alt="navi" class="img-right"></div>
+{{% /expand%}}
+<br>
+
 <!-- Q. タッチ音を鳴らす事は出来ますか？ -->
 <!--
 {{%expand "Q. 是否可以发出触摸的声音？" %}}
@@ -74,7 +83,6 @@ chapter: false
 <br>
 
 <!-- Q. 音ズレを直せますか？ -->
-<!--
 {{%expand "Q. 能否解决图像和声音播放不一致的问题？" %}}
 <div class="balloon">
 在应用内没有办法解决这个问题。<br>不过，我确实希望有朝一日能回应这个问题。

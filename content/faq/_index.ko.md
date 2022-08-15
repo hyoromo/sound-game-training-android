@@ -31,6 +31,15 @@ chapter: false
 {{% /expand%}}
 <br>
 
+<!-- Q. タッチの表示や音を鳴らす事は出来ますか？ -->
+{{%expand "Q. 터치의 표시나 소리를 울릴 수 있습니까?" %}}
+<div class="balloon">
+이 앱에서는 할 수 없습니다.<br>언젠가 대응하고 싶습니다.
+</div>
+<div class="box"><img src="navi_003.png" alt="navi" class="img-right"></div>
+{{% /expand%}}
+<br>
+
 <!-- Q. タッチ音を鳴らす事は出来ますか？ -->
 <!--
 {{%expand "Q. 화면을 터치했을 때 소리를 울릴 수 있습니까?" %}}
@@ -75,7 +84,6 @@ chapter: false
 <br>
 
 <!-- Q. 音ズレを直せますか？ -->
-<!--
 {{%expand "Q. 소리 어긋남을 고칠 수 있습니까?" %}}
 <div class="balloon">
 이 앱 내에서 사운드 어긋남을 고칠 수있는 방법은 없습니다.<br>언젠가 대응하고 싶습니다.

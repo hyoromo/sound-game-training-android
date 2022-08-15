@@ -31,6 +31,15 @@ Just tapping the screen while playing the part you're weak in is good enough pra
 {{% /expand%}}
 <br>
 
+<!-- Q. タッチの表示や音を鳴らす事は出来ますか？ -->
+{{%expand "Q. Can the touch be displayed or sounded?" %}}
+<div class="balloon">
+You can't do it with this app.<br>I would like to support it someday.
+</div>
+<div class="box"><img src="navi_003.png" alt="navi" class="img-right"></div>
+{{% /expand%}}
+<br>
+
 <!-- Q. タッチ音を鳴らす事は出来ますか？ -->
 <!--
 {{%expand "Q. Is it possible to make a touch sound?" %}}
@@ -75,7 +84,6 @@ The button is changed by selecting "Folder Settings > Pause Button" from the upp
 <br>
 
 <!-- Q. 音ズレを直せますか？ -->
-<!--
 {{%expand "Q. Can you fix the sound shift?" %}}
 <div class="balloon">
 There is no way to solve this problem within the app.<br>I do hope to respond to this someday, though.
