@@ -2,6 +2,8 @@ baseURL = "https://hyoromo.github.io/sound-game-training-android/"
 publishDir = "docs"
 languageCode = "en-us"
 theme = "hugo-theme-learn"
+googleAnalytics = 'G-0D4KL8KE9M'
+disqusShortname = 'your-disqus-shortname'
 
 defaultContentLanguage = "en"
 metaDataFormat = "yaml"
