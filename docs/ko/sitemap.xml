@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://hyoromo.github.io/sound-game-training-android/ko/features/</loc>
     <xhtml:link
@@ -29,9 +28,7 @@
                 hreflang="ko"
                 href="https://hyoromo.github.io/sound-game-training-android/ko/features/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hyoromo.github.io/sound-game-training-android/ko/faq/</loc>
     <xhtml:link
                 rel="alternate"
@@ -58,9 +55,7 @@
                 hreflang="ko"
                 href="https://hyoromo.github.io/sound-game-training-android/ko/faq/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hyoromo.github.io/sound-game-training-android/ko/privacy/</loc>
     <priority>0</priority>
     <xhtml:link
@@ -88,9 +83,7 @@
                 hreflang="ko"
                 href="https://hyoromo.github.io/sound-game-training-android/ko/privacy/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hyoromo.github.io/sound-game-training-android/ko/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -117,9 +110,7 @@
                 hreflang="ko"
                 href="https://hyoromo.github.io/sound-game-training-android/ko/categories/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hyoromo.github.io/sound-game-training-android/ko/</loc>
     <xhtml:link
                 rel="alternate"
@@ -146,9 +137,7 @@
                 hreflang="ko"
                 href="https://hyoromo.github.io/sound-game-training-android/ko/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hyoromo.github.io/sound-game-training-android/ko/tags/</loc>
     <xhtml:link
                 rel="alternate"
@@ -175,9 +164,7 @@
                 hreflang="ko"
                 href="https://hyoromo.github.io/sound-game-training-android/ko/tags/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hyoromo.github.io/sound-game-training-android/ko/chara/</loc>
     <xhtml:link
                 rel="alternate"
@@ -204,9 +191,7 @@
                 hreflang="ko"
                 href="https://hyoromo.github.io/sound-game-training-android/ko/chara/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hyoromo.github.io/sound-game-training-android/ko/credits/</loc>
     <xhtml:link
                 rel="alternate"
@@ -234,5 +219,4 @@
                 href="https://hyoromo.github.io/sound-game-training-android/ko/credits/"
                 />
   </url>
-  
 </urlset>

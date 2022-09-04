@@ -5,10 +5,6 @@
     <link>https://hyoromo.github.io/sound-game-training-android/ko/features/</link>
     <description>Recent content in 기능 설명 on 사운드 게임 교육 for Android</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://hyoromo.github.io/sound-game-training-android/ko/features/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://hyoromo.github.io/sound-game-training-android/ko/features/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

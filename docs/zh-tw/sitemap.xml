@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://hyoromo.github.io/sound-game-training-android/zh-tw/features/</loc>
     <xhtml:link
@@ -29,9 +28,7 @@
                 hreflang="zh-tw"
                 href="https://hyoromo.github.io/sound-game-training-android/zh-tw/features/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hyoromo.github.io/sound-game-training-android/zh-tw/faq/</loc>
     <xhtml:link
                 rel="alternate"
@@ -58,9 +55,7 @@
                 hreflang="zh-tw"
                 href="https://hyoromo.github.io/sound-game-training-android/zh-tw/faq/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hyoromo.github.io/sound-game-training-android/zh-tw/privacy/</loc>
     <priority>0</priority>
     <xhtml:link
@@ -88,9 +83,7 @@
                 hreflang="zh-tw"
                 href="https://hyoromo.github.io/sound-game-training-android/zh-tw/privacy/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hyoromo.github.io/sound-game-training-android/zh-tw/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -117,9 +110,7 @@
                 hreflang="zh-tw"
                 href="https://hyoromo.github.io/sound-game-training-android/zh-tw/categories/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hyoromo.github.io/sound-game-training-android/zh-tw/</loc>
     <xhtml:link
                 rel="alternate"
@@ -146,9 +137,7 @@
                 hreflang="zh-tw"
                 href="https://hyoromo.github.io/sound-game-training-android/zh-tw/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hyoromo.github.io/sound-game-training-android/zh-tw/tags/</loc>
     <xhtml:link
                 rel="alternate"
@@ -175,9 +164,7 @@
                 hreflang="zh-tw"
                 href="https://hyoromo.github.io/sound-game-training-android/zh-tw/tags/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hyoromo.github.io/sound-game-training-android/zh-tw/chara/</loc>
     <xhtml:link
                 rel="alternate"
@@ -204,9 +191,7 @@
                 hreflang="zh-tw"
                 href="https://hyoromo.github.io/sound-game-training-android/zh-tw/chara/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hyoromo.github.io/sound-game-training-android/zh-tw/credits/</loc>
     <xhtml:link
                 rel="alternate"
@@ -234,5 +219,4 @@
                 href="https://hyoromo.github.io/sound-game-training-android/zh-tw/credits/"
                 />
   </url>
-  
 </urlset>
