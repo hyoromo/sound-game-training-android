@@ -4,7 +4,7 @@ disableToc: true
 chapter: false
 ---
 
-![image](img_congratulation.png)
+![image](https://hyoromo.github.io/sound-game-training-android/img_congratulation.png)
 
 던지기 돈을 고려해 주셔서 감사합니다!
 

@@ -4,9 +4,9 @@ disableToc: true
 chapter: false
 ---
 
-![image](img_congratulation.png)
+![image](https://hyoromo.github.io/sound-game-training-android/img_congratulation.png)
 
-感謝您考慮提示。
+感謝您考慮捐款！
 
 如果您喜歡該應用程序並認為您願意支持該應用程序的開發，如果您能在下面提示我們，我們將很高興。
 

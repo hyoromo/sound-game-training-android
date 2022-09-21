@@ -4,7 +4,7 @@ disableToc: true
 chapter: false
 ---
 
-![image](img_congratulation.png)
+![image](https://hyoromo.github.io/sound-game-training-android/img_congratulation.png)
 
 Thank you for considering the tip.
 
