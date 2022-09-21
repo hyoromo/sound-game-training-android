@@ -192,6 +192,33 @@
                 href="https://hyoromo.github.io/sound-game-training-android/zh/chara/"
                 />
   </url><url>
+    <loc>https://hyoromo.github.io/sound-game-training-android/zh/tip/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hyoromo.github.io/sound-game-training-android/tip/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="https://hyoromo.github.io/sound-game-training-android/jp/tip/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://hyoromo.github.io/sound-game-training-android/ko/tip/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://hyoromo.github.io/sound-game-training-android/zh-tw/tip/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://hyoromo.github.io/sound-game-training-android/zh/tip/"
+                />
+  </url><url>
     <loc>https://hyoromo.github.io/sound-game-training-android/zh/credits/</loc>
     <xhtml:link
                 rel="alternate"
