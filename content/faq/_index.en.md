@@ -31,21 +31,20 @@ Just tapping the screen while playing the part you're weak in is good enough pra
 {{% /expand%}}
 <br>
 
-<!-- Q. タッチの表示や音を鳴らす事は出来ますか？ -->
-{{%expand "Q. Can the touch be displayed or sounded?" %}}
+<!-- Q. タッチを表示する事は出来ますか？ -->
+{{%expand "Q. Can you display touch?" %}}
 <div class="balloon">
-You can't do it with this app.<br>I would like to support it someday.
+You can't do it with this app.<br>In the device's Settings app, go to Developer Options and turn on "Show Taps".
 </div>
 <div class="box"><img src="navi_003.png" alt="navi" class="img-right"></div>
 {{% /expand%}}
 <br>
 
 <!-- Q. タッチ音を鳴らす事は出来ますか？ -->
-<!--
 {{%expand "Q. Is it possible to make a touch sound?" %}}
 <div class="balloon">
-You can set up the touch sound from "Settings > Settings on Video > Sound" in the app.<br>
-There are various types of touch sounds available, so you can choose the one you like best ♪~
+Settings can be made from "Common settings > Touch on video > Touch sound" from the upper right of the video list screen.<br>
+There are various kinds of touch sounds, so please choose the one you like ♪~
 </div>
 <div class="box"><img src="navi_002.png" alt="navi" class="img-right"></div>
 {{% /expand%}}
@@ -63,15 +62,13 @@ You can also set the color and display size, so you can adjust it to your liking
 <br>
 
 <!-- Q. 効果音の音量調整は行なえますか？ -->
-<!--
 {{%expand "Q. Can I adjust the volume of the touch sound?" %}}
 <div class="balloon">
-You cannot do this in the app. Please adjust the volume on your device.
+Settings can be made from "Common settings > Touch on video > Volume" from the upper right of the video list screen.
 </div>
-<div class="box"><img src="navi_004.png" alt="navi" class="img-right"></div>
+<div class="box"><img src="navi_001.png" alt="navi" class="img-right"></div>
 {{% /expand%}}
 <br>
--->
 
 <!-- Q. プレイ動画によってはタップ位置と一時停止ボタンが同じ場所で困っています。どうにかなりませんか？ -->
 {{%expand "Q. I'm having trouble with the tap position and pause button being in the same place in some play videos. Can you fix this problem?" %}}
@@ -175,8 +172,7 @@ I have no plans to sell ad removal items.
 <!-- Q. Donateは受け付けていますか？ -->
 {{%expand "Q. Do you accept Donate?" %}}
 <div class="balloon">
-I accept from the donation link in the menu on the upper left.<br>
-The donations received will be used as food for living.
+I accept from the tip link in the menu on the upper left.
 </div>
 <div class="box"><img src="navi_001.png" alt="navi" class="img-right"></div>
 {{% /expand%}}

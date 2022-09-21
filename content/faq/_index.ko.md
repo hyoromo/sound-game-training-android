@@ -31,20 +31,19 @@ chapter: false
 {{% /expand%}}
 <br>
 
-<!-- Q. タッチの表示や音を鳴らす事は出来ますか？ -->
-{{%expand "Q. 터치의 표시나 소리를 울릴 수 있습니까?" %}}
+<!-- Q. タッチを表示する事は出来ますか？ -->
+{{%expand "Q. 터치를 표시할 수 있습니까?" %}}
 <div class="balloon">
-이 앱에서는 할 수 없습니다.<br>언젠가 대응하고 싶습니다.
+이 앱에서는 할 수 없습니다.<br>기기의 설정 앱에서 개발자 옵션에서 '탭 표시'를 켜면 표시됩니다.
 </div>
 <div class="box"><img src="navi_003.png" alt="navi" class="img-right"></div>
 {{% /expand%}}
 <br>
 
 <!-- Q. タッチ音を鳴らす事は出来ますか？ -->
-<!--
 {{%expand "Q. 화면을 터치했을 때 소리를 울릴 수 있습니까?" %}}
 <div class="balloon">
-앱의 "설정 > 동영상의 터치 사운드"에서 터치 사운드를 설정할 수 있습니다.<br>
+동영상 목록 화면의 오른쪽 상단에서 "공통 설정> 동영상상의 터치> 터치 소리"에서 설정할 수 있습니다.<br>
 터치 소리는 다양한 종류를 준비하고 있으므로, 좋아하는 소리를 선택해 주세요 ♪~
 </div>
 <div class="box"><img src="navi_002.png" alt="navi" class="img-right"></div>
@@ -63,15 +62,13 @@ chapter: false
 <br>
 
 <!-- Q. 効果音の音量調整は行なえますか？ -->
-<!--
 {{%expand "Q. 효과음의 음량 조정을 할 수 있습니까?" %}}
 <div class="balloon">
-앱 내에서는 할 수 없습니다. . . 단말기의 볼륨을 조정합니다.<br>사실은 앱 내에서 조정하고 싶습니다만, 그 방법이라고 단말 스펙에 따라서는 효과음의 재생이 크게 늦어 버리는 기종이 있었습니다. 사용자 단말기의 평균 사양이 올라오면 대응할 수 있습니다.
+동영상 일람 화면의 오른쪽 상단에서 「공통 설정 > 동영상상의 터치 > 음량」에서 설정을 할 수 있습니다.
 </div>
-<div class="box"><img src="navi_004.png" alt="navi" class="img-right"></div>
+<div class="box"><img src="navi_001.png" alt="navi" class="img-right"></div>
 {{% /expand%}}
 <br>
--->
 
 <!-- Q. プレイ動画によってはタップ位置と一時停止ボタンが同じ場所で困っています。どうにかなりませんか？ -->
 {{%expand "Q. 플레이 동영상에 따라서는 탭 위치와 일시정지 버튼이 같은 장소에서 곤란하고 있습니다. 어떻게 되나요?" %}}
@@ -165,8 +162,7 @@ chapter: false
 <!-- Q. Donateは受け付けていますか？ -->
 {{%expand "Q. 기부는 받고 있습니까?" %}}
 <div class="balloon">
-왼쪽 상단 메뉴의 기부 링크에서 접수합니다.<br>
-받은 기부는 살기 위한 양식으로 하겠습니다.
+왼쪽 상단 메뉴의 기부 링크에서 접수합니다.
 </div>
 <div class="box"><img src="navi_001.png" alt="navi" class="img-right"></div>
 {{% /expand%}}

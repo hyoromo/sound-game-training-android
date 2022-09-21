@@ -28,24 +28,24 @@ chapter: false
 {{% /expand%}}
 <br>
 
-{{%expand "Q. タッチの表示や音を鳴らす事は出来ますか？" %}}
+{{%expand "Q. タッチを表示する事は出来ますか？" %}}
 <div class="balloon">
-本アプリでは行えません。<br>いつか対応したいとは思っています。
+本アプリでは行えません。<br>端末の設定アプリにて、開発者向けオプションから「タップを表示」をオンにすると表示されます。
 </div>
 <div class="box"><img src="navi_003.png" alt="navi" class="img-right"></div>
 {{% /expand%}}
 <br>
 
-<!--
 {{%expand "Q. タッチ音を鳴らす事は出来ますか？" %}}
 <div class="balloon">
-アプリ内の「設定 > 動画上のタッチ サウンド」から、タッチ音の設定が行えます。<br>
+動画一覧画面の右上から「共通設定 > 動画上のタッチ > タッチ音」から設定が行えます。<br>
 タッチ音は色々な種類を用意していますので、お好きな音を選んでください ♪~
 </div>
 <div class="box"><img src="navi_002.png" alt="navi" class="img-right"></div>
 {{% /expand%}}
 <br>
 
+<!--
 {{%expand "Q. タッチ箇所を表示する事は出来ますか？" %}}
 <div class="balloon">
 アプリ内の「設定 > 動画上のタッチ ポイント」から、タッチの表示設定が行えます。<br>
@@ -54,15 +54,15 @@ chapter: false
 <div class="box"><img src="navi_002.png" alt="navi" class="img-right"></div>
 {{% /expand%}}
 <br>
+-->
 
 {{%expand "Q. 効果音の音量調整は行なえますか？" %}}
 <div class="balloon">
-アプリ内では行えません。。。端末の音量を調整してください。<br>本当はアプリ内で調整したいのですが、その方法だと端末スペックによっては効果音の再生が大きく遅れてしまう機種がありました。利用端末の平均スペックが上がって来たら対応するかもしれません。
+動画一覧画面の右上から「共通設定 > 動画上のタッチ > 音量」から設定が行えます。
 </div>
-<div class="box"><img src="navi_004.png" alt="navi" class="img-right"></div>
+<div class="box"><img src="navi_001.png" alt="navi" class="img-right"></div>
 {{% /expand%}}
 <br>
--->
 
 {{%expand "Q. プレイ動画によってはタップ位置と一時停止ボタンが同じ場所で困っています。どうにかなりませんか？" %}}
 <div class="balloon">
@@ -156,8 +156,7 @@ chapter: false
 
 {{%expand "Q. 寄付は受け付けていますか？" %}}
 <div class="balloon">
-左上のメニューの寄付リンク先から受け付けています。<br>
-頂いた寄付は生きるための糧とさせて頂きます。
+左上のメニューの投げ銭リンク先から受け付けています。
 </div>
 <div class="box"><img src="navi_001.png" alt="navi" class="img-right"></div>
 {{% /expand%}}

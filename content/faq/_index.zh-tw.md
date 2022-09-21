@@ -31,21 +31,20 @@ chapter: false
 {{% /expand%}}
 <br>
 
-<!-- Q. タッチの表示や音を鳴らす事は出来ますか？ -->
-{{%expand "Q. 是否可以製作觸摸顯示和聲音？" %}}
+<!-- Q. タッチを表示する事は出来ますか？ -->
+{{%expand "Q. 是否可以顯示觸摸？" %}}
 <div class="balloon">
-你不能用這個應用程序做到這一點。 <br>我想有一天支持它。
+你不能用這個應用程序做到這一點。 <br>當您在設備的設置應用程序的開發者選項中打開“顯示水龍頭”時，它將顯示。
 </div>
 <div class="box"><img src="navi_003.png" alt="navi" class="img-right"></div>
 {{% /expand%}}
 <br>
 
 <!-- Q. タッチ音を鳴らす事は出来ますか？ -->
-<!--
 {{%expand "Q. 是否可以發出觸摸的聲音？" %}}
 <div class="balloon">
-您可以在應用中的 "設置 > 觸摸視頻 > 聲音" 中設置觸摸聲音。<br>
-有各種類型的觸摸聲音可供選擇，所以你可以選擇一個你最喜歡的 ♪~
+可以從視頻列表屏幕右上角的“通用設置 > 觸摸視頻 > 觸摸聲音”進行設置。<br>
+觸摸聲音有很多種，請選擇你喜歡的一種吧♪~
 </div>
 <div class="box"><img src="navi_001.png" alt="navi" class="img-right"></div>
 {{% /expand%}}
@@ -63,12 +62,11 @@ chapter: false
 <br>
 
 <!-- Q. 効果音の音量調整は行なえますか？ -->
-<!--
 {{%expand "Q. 是否可以調整音響效果的音量？" %}}
 <div class="balloon">
-你不能在應用程序中這樣做。請調整設備的音量。
+可以從視頻列表屏幕右上角的“通用設置 > 觸摸視頻 > 音量”進行設置。
 </div>
-<div class="box"><img src="navi_004.png" alt="navi" class="img-right"></div>
+<div class="box"><img src="navi_001.png" alt="navi" class="img-right"></div>
 {{% /expand%}}
 <br>
 
@@ -164,8 +162,7 @@ chapter: false
 <!-- Q. Donateは受け付けていますか？ -->
 {{%expand "Q. 你們接受捐贈嗎？" %}}
 <div class="balloon">
-我們接受來自左上方菜單捐贈鏈接的捐贈。<br>
-收到的捐款將用作生活的食物。
+我們接受來自左上方菜單捐贈鏈接的捐贈。
 </div>
 <div class="box"><img src="navi_001.png" alt="navi" class="img-right"></div>
 {{% /expand%}}
