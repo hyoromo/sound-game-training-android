@@ -12,14 +12,14 @@ You can check the notes by playing back the video, and you can also pseudo-play 
 
 There are two ways to add videos to be played in the app.
 
-#### In Device
+#### In-device or Google Drive
 
-Play the video in the device.<br>
+Play videos in the device or on Google Drive.<br>
 Here's how you can add them in this app.
 
 1. Open the "Video List" screen
 2. Click on the "+" button at the bottom right of the screen
-3. Select "In Device" from the list of alternatives
+3. Select "In Device + Google Drive" from the list of alternatives
 4. Select the video you want to add
 5. Enter your registration information and click the "Add" button
 
