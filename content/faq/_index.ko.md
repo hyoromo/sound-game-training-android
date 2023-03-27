@@ -118,6 +118,24 @@ chapter: false
 {{% /expand%}}
 <br>
 
+<!-- Q. 動画追加後に端末内やGoogleDriveから動画を削除しても大丈夫ですか？ -->
+{{%expand "Q. 동영상 추가 후 기기 내 또는 Google 드라이브에서 동영상을 삭제해도 되나요?" %}}
+<div class="balloon">
+삭제하면 앱 내에서 동영상이 재생되지 않습니다.<br>본 앱은 어디까지나 외부에서 동영상을 불러오는 것일 뿐입니다.
+</div>
+<div class="box"><img src="navi_003.png" alt="navi" class="img-right"></div>
+{{% /expand%}}
+<br>
+
+<!-- Q. 動画のFPSを上げることは出来ますか？ -->
+{{%expand "Q. 동영상의 FPS를 높일 수 있나요?" %}}
+<div class="balloon">
+동영상의 FPS가 높고, 단말기의 FPS 상한선도 높으며, 단말기가 안드로이드 12 이상이면 가능하다.<br>동영상 목록 화면 우측 상단의 '공통 설정 > 동영상 > fps 상한선'에서 변경해 주세요.
+</div>
+<div class="box"><img src="navi_001.png" alt="navi" class="img-right"></div>
+{{% /expand%}}
+<br>
+
 ## 요청/버그 연락
 
 <!-- Q. 要望は何処からすればいいですか？ -->

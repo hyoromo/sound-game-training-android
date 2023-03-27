@@ -118,6 +118,25 @@ You can choose from 240p/360p/720p. The default setting is 360p.<br>You can conf
 <div class="box"><img src="navi_002.png" alt="navi" class="img-right"></div>
 {{% /expand%}}
 <br>
+-->
+
+<!-- Q. 動画追加後に端末内やGoogleDriveから動画を削除しても大丈夫ですか？ -->
+{{%expand "Q. Can I delete videos from my device or GoogleDrive after adding a video?" %}}
+<div class="balloon">
+If deleted, the video will no longer play in the application.<br>This application only reads videos from external sources.
+</div>
+<div class="box"><img src="navi_003.png" alt="navi" class="img-right"></div>
+{{% /expand%}}
+<br>
+
+<!-- Q. 動画のFPSを上げることは出来ますか？ -->
+{{%expand "Q. Can I increase the FPS of the video?" %}}
+<div class="balloon">
+This is possible if the FPS of the video is high, the FPS limit of the device is also high, and the device is Android 12 or higher.<br>Please change it from "Common Settings > Video > fps Limit" from the upper right corner of the video list screen.
+</div>
+<div class="box"><img src="navi_001.png" alt="navi" class="img-right"></div>
+{{% /expand%}}
+<br>
 
 ## Requests/bugs
 

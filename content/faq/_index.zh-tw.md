@@ -119,6 +119,24 @@ chapter: false
 {{% /expand%}}
 <br>
 
+<!-- Q. 動画追加後に端末内やGoogleDriveから動画を削除しても大丈夫ですか？ -->
+{{%expand "Q. 添加視頻後，我可以從設備或GoogleDrive中刪除視頻嗎？" %}}
+<div class="balloon">
+如果刪除，該視頻將不再在應用程序中播放。<br>這個應用程序只從外部來源讀取視頻。
+</div>
+<div class="box"><img src="navi_003.png" alt="navi" class="img-right"></div>
+{{% /expand%}}
+<br>
+
+<!-- Q. 動画のFPSを上げることは出来ますか？ -->
+{{%expand "Q. 我可以提高我的視頻的FPS嗎？" %}}
+<div class="balloon">
+如果視頻的FPS很高，設備的FPS限制也很高，而且設備是安卓12或更高，這就有可能。<br>請從視頻列表屏幕的右上方的 "通用設置>視頻>幀數限制 "中改變這一點。
+</div>
+<div class="box"><img src="navi_001.png" alt="navi" class="img-right"></div>
+{{% /expand%}}
+<br>
+
 ## 要求/錯誤
 
 <!-- Q. 要望は何処からすればいいですか？ -->

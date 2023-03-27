@@ -108,6 +108,22 @@ chapter: false
 <br>
 -->
 
+{{%expand "Q. 動画追加後に端末内やGoogleDriveから動画を削除しても大丈夫ですか？" %}}
+<div class="balloon">
+削除された場合、アプリ内で動画が再生されなくなります。<br>本アプリはあくまで外部から動画を読み込んでいるだけです。
+</div>
+<div class="box"><img src="navi_003.png" alt="navi" class="img-right"></div>
+{{% /expand%}}
+<br>
+
+{{%expand "Q. 動画のFPSを上げることは出来ますか？" %}}
+<div class="balloon">
+動画のFPSが高く、端末のFPS上限も高く、端末がAndroid12以上であれば可能です。<br>動画一覧画面の右上から「共通設定 > 動画 > fps上限」から変更ください。
+</div>
+<div class="box"><img src="navi_001.png" alt="navi" class="img-right"></div>
+{{% /expand%}}
+<br>
+
 ## 要望/バグの連絡
 
 {{%expand "Q. 要望は何処からすればいいですか？" %}}
