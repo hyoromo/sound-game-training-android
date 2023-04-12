@@ -171,9 +171,9 @@ chapter: false
 <!-- Q. 広告はアプリ内課金で消せませんか？ -->
 {{%expand "Q. 应用内购买不能隐藏广告吗？" %}}
 <div class="balloon">
-我们不打算出售广告删除项目。
+成为支持者后，您可以去除广告。<br>请点击视频列表屏幕右上角的“Ad”按钮以了解更多信息。
 </div>
-<div class="box"><img src="navi_003.png" alt="navi" class="img-right"></div>
+<div class="box"><img src="navi_001.png" alt="navi" class="img-right"></div>
 {{% /expand%}}
 <br>
 

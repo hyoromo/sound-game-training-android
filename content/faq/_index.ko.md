@@ -171,9 +171,9 @@ chapter: false
 <!-- Q. 広告はアプリ内課金で消せませんか？ -->
 {{%expand "Q. 광고는 인앱 결제로 지울 수 없습니까?" %}}
 <div class="balloon">
-과금 도입에는 특정 상거래법에 따라 주소를 공개해야 하기 때문에 과금 추가하고 광고 제거 아이템을 판매할 예정이 없습니다.
+서포터로 가입하시면 광고를 없앨 수 있습니다.<br>자세한 내용은 동영상 목록 화면의 오른쪽 상단에 있는 'Ad' 버튼을 탭하여 확인해 주세요.
 </div>
-<div class="box"><img src="navi_003.png" alt="navi" class="img-right"></div>
+<div class="box"><img src="navi_001.png" alt="navi" class="img-right"></div>
 {{% /expand%}}
 <br>
 

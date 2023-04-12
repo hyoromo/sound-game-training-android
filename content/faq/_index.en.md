@@ -182,9 +182,9 @@ Deleting a video from the camera roll will stop it from playing.<br>If you choos
 <!-- Q. 広告はアプリ内課金で消せませんか？ -->
 {{%expand "Q. Can't I get rid of ads through in-app purchases?" %}}
 <div class="balloon">
-I have no plans to sell ad removal items.
+You can remove ads by becoming a supporter.<br>For more information, please tap the "Ad" button in the upper right corner of the video list screen.
 </div>
-<div class="box"><img src="navi_003.png" alt="navi" class="img-right"></div>
+<div class="box"><img src="navi_001.png" alt="navi" class="img-right"></div>
 {{% /expand%}}
 <br>
 

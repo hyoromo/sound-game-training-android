@@ -164,9 +164,10 @@ chapter: false
 
 {{%expand "Q. 広告はアプリ内課金で消せませんか？" %}}
 <div class="balloon">
-課金導入には特定商取引法に基づき住所を公開する必要があるため、課金追加して広告除去アイテムの販売は行う予定がありません。
+サポーター加入頂けると消せます。<br>
+詳しくは動画一覧画面の右上にある「Ad」ボタンをタップしてご確認ください。
 </div>
-<div class="box"><img src="navi_003.png" alt="navi" class="img-right"></div>
+<div class="box"><img src="navi_001.png" alt="navi" class="img-right"></div>
 {{% /expand%}}
 <br>
 
