@@ -81,11 +81,11 @@ chapter: false
 <br>
 
 <!-- Q. 音ズレを直せますか？ -->
-{{%expand "Q. 能否解決圖像和聲音播放不一致的問題？" %}}
+{{%expand "Q. 您能修復音頻延遲嗎？" %}}
 <div class="balloon">
-在應用內沒有辦法解決這個問題。<br>不過，我確實希望有朝一日能回應這個問題。
+音頻延遲可以在視頻屏幕上以 0.01 秒為增量進行調整。<br>詳情請參見<a href="https://hyoromo.github.io/sound-game-training-android/zh-tw/features/#調整音頻延遲">單獨頁面</a>。
 </div>
-<div class="box"><img src="navi_003.png" alt="navi" class="img-right"></div>
+<div class="box"><img src="navi_001.png" alt="navi" class="img-right"></div>
 {{% /expand%}}
 <br>
 

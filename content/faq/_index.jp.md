@@ -75,9 +75,9 @@ chapter: false
 
 {{%expand "Q. 音ズレを直せますか？" %}}
 <div class="balloon">
-本アプリ内で音ズレを直す方法はありません。<br>いつか対応したいとは思っています。
+動画画面から0.01秒単位でズレの調整が行なえます。<br>詳しくは<a href="https://hyoromo.github.io/sound-game-training-android/jp/features/#音ズレの調整">別ページ</a>をご確認ください。
 </div>
-<div class="box"><img src="navi_003.png" alt="navi" class="img-right"></div>
+<div class="box"><img src="navi_001.png" alt="navi" class="img-right"></div>
 {{% /expand%}}
 <br>
 

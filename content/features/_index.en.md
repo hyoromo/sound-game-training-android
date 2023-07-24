@@ -60,6 +60,14 @@ There are many other features that make it easier to practice.
 - Support for both portrait and landscape video<br>You can fix your device orientation in portrait or landscape mode
 - Shortcut button to rewind/fast-forward for a few seconds during playback<br>The shortcut button is set up so that you can easily manipulate the time without having to pause and operate the seek bar
 
+## Play at low double speed
+
+![video playback speed](img_video_playback_speed.png#imgleft)
+<div class="clear clear_box"></div>
+It has the ability to reduce the playback speed of videos.<br>
+"The chart is too fast for me to understand!" Try playing at 0.25x speed and gradually increase the speed by 0.05x.<br>
+Try to figure out the score at low double speed and gradually increase the speed while playing pseudo-playing.<br>
+
 ## Bookmark the playback position
 
 ![video scale](img_video_bookmark.png#imgleft)
@@ -75,3 +83,11 @@ By setting the start/end position of playback for each number, you can quickly s
 Pinch in/out to zoom in/out, swipe to move position.<br>
 You can import screenshots of games into the application. Adjust the transparency of the image as you see it.
 <br>
+
+## Adjusting audio delay
+
+![sound lag](img_video_sound_lag_en.png#imgleft)
+<div class="clear clear_box"></div>
+
+If the video and audio are out of sync, the audio delay can be adjusted in increments of 0.01 seconds.<br>
+Please adjust if the video itself has audio delay or if you are using Bluetooth earphones with audio delay.<br>

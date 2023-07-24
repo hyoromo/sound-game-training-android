@@ -60,6 +60,14 @@ YouTube是谷歌的视频分享服务。存在别人上传的音乐游戏视频�
 - 支持视频屏幕的纵向和横向方向<br>您可以在纵向或横向模式下固定您的设备方向
 - 在播放過程中，可倒退/快進幾秒鐘的快捷鍵<br>不需要暫停和操縱時間
 
+## 以低双倍速度播放
+
+![video playback speed](img_video_playback_speed.png#imgleft)
+<div class="clear clear_box"></div>
+有一个降低视频播放速度的功能。<br>
+"音乐太快了，我听不懂！" 试着用 0.25 倍速播放，然后逐渐加快 0.05 倍速。<br>
+尝试在低双倍速度下理解乐谱，并在逐渐提高速度的同时进行伪演奏。<br>
+
 ## 收藏播放位置
 
 ![video scale](img_video_bookmark.png#imgleft)
@@ -75,3 +83,11 @@ YouTube是谷歌的视频分享服务。存在别人上传的音乐游戏视频�
 掐进/掐出可以放大/缩小，滑动可以移动位置。<br>
 你可以将游戏的截图导入应用程序。 在观看图像时，调整图像的透明度。
 <br>
+
+## 调整音频延迟
+
+![sound lag](img_video_sound_lag_cn.png#imgleft)
+<div class="clear clear_box"></div>
+
+如果视频和音频不同步，音频延迟可以 0.01 秒为增量进行调整。<br>
+如果视频本身有音频延迟，或者您使用的蓝牙耳机有音频延迟，请进行调整。<br>

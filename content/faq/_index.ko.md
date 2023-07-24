@@ -81,11 +81,11 @@ chapter: false
 <br>
 
 <!-- Q. 音ズレを直せますか？ -->
-{{%expand "Q. 소리 어긋남을 고칠 수 있습니까?" %}}
+{{%expand "Q. 오디오 지연을 수정할 수 있나요?" %}}
 <div class="balloon">
-이 앱 내에서 사운드 어긋남을 고칠 수있는 방법은 없습니다.<br>언젠가 대응하고 싶습니다.
+오디오 지연은 비디오 화면에서 0.01초 단위로 조정할 수 있습니다.<br>자세한 내용은 <a href="https://hyoromo.github.io/sound-game-training-android/ko/features/#오디오-지연-조정">별도 페이지</a> 를 참조하세요.
 </div>
-<div class="box"><img src="navi_003.png" alt="navi" class="img-right"></div>
+<div class="box"><img src="navi_001.png" alt="navi" class="img-right"></div>
 {{% /expand%}}
 <br>
 

@@ -81,11 +81,11 @@ The button is changed by selecting "Folder Settings > Pause Button" from the upp
 <br>
 
 <!-- Q. 音ズレを直せますか？ -->
-{{%expand "Q. Can you fix the sound shift?" %}}
+{{%expand "Q. Can you fix audio delay?" %}}
 <div class="balloon">
-There is no way to solve this problem within the app.<br>I do hope to respond to this someday, though.
+The audio delay can be adjusted in 0.01 second increments from the video screen.<br>Please see the <a href="https://hyoromo.github.io/sound-game-training-android/features/#adjusting-audio-delay">separate page</a> for details.
 </div>
-<div class="box"><img src="navi_003.png" alt="navi" class="img-right"></div>
+<div class="box"><img src="navi_001.png" alt="navi" class="img-right"></div>
 {{% /expand%}}
 <br>
 
