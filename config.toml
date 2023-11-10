@@ -77,6 +77,11 @@ name = "<i class='fas fa-book'></i> Privacy Policy"
 url = "https://hyoromo.github.io/sound-game-training-android/privacy"
 weight = 13
 
+[[Languages.en.menu.shortcuts]]
+name = "<i class='fas fa-mobile'></i> Other apps"
+url = "https://play.google.com/store/apps/dev?id=7087451883225614829"
+weight = 99
+
 
 [Languages.jp]
 title = "音ゲートレーニング for Android"
@@ -107,6 +112,11 @@ weight = 12
 name = "<i class='fas fa-book'></i> プライバシーポリシー"
 url = "https://hyoromo.github.io/sound-game-training-android/jp/privacy"
 weight = 13
+
+[[Languages.jp.menu.shortcuts]]
+name = "<i class='fas fa-mobile'></i> 他のアプリ"
+url = "https://play.google.com/store/apps/dev?id=7087451883225614829"
+weight = 99
 
 
 [Languages.zh]
@@ -139,6 +149,11 @@ name = "<i class='fas fa-book'></i> 隐私政策"
 url = "https://hyoromo.github.io/sound-game-training-android/zh/privacy"
 weight = 13
 
+[[Languages.zh.menu.shortcuts]]
+name = "<i class='fas fa-mobile'></i> 开发者的其他应用"
+url = "https://play.google.com/store/apps/dev?id=7087451883225614829"
+weight = 99
+
 
 [Languages.zh-TW]
 title = "音樂遊戲培訓 for Android"
@@ -170,6 +185,11 @@ name = "<i class='fas fa-book'></i> 隱私政策"
 url = "https://hyoromo.github.io/sound-game-training-android/zh-tw/privacy"
 weight = 13
 
+[[Languages.zh-TW.menu.shortcuts]]
+name = "<i class='fas fa-mobile'></i> 開發者的其他應用"
+url = "https://play.google.com/store/apps/dev?id=7087451883225614829"
+weight = 99
+
 
 [Languages.ko]
 title = "사운드 게임 교육 for Android"
@@ -200,3 +220,8 @@ weight = 12
 name = "<i class='fas fa-book'></i> 개인 정보 정책"
 url = "https://hyoromo.github.io/sound-game-training-android/ko/privacy"
 weight = 13
+
+[[Languages.ko.menu.shortcuts]]
+name = "<i class='fas fa-mobile'></i> 개발자의 다른 앱"
+url = "https://play.google.com/store/apps/dev?id=7087451883225614829"
+weight = 99
