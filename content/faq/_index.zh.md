@@ -110,10 +110,9 @@ chapter: false
 <br>
 
 <!-- Q. YouTube動画の解像度が低いです。変更出来ませんか？ -->
-<!--
 {{%expand "Q. 我的YouTube视频的分辨率太低了。 我有可能改变它吗？" %}}
 <div class="balloon">
-你可以在240p/360p/720p之间选择。 默认设置是360p。<br>你可以在视频列表左下方的 "常用设置>通信" 下找到设置。
+根据原视频分辨率,您可以选择240p/360p/480p/720p/最高画质。默认为720p。<br>您可以从视频屏幕左下角的齿轮图标更改YouTube画质。
 </div>
 <div class="box"><img src="navi_002.png" alt="navi" class="img-right"></div>
 {{% /expand%}}
@@ -166,6 +165,15 @@ chapter: false
 {{% /expand%}}
 <br>
 
+<!-- Q. 早送り/巻き戻しボタンを使用したり、動画を再生していると一時停止します。これはバグですか？ -->
+{{%expand "Q. 当我使用快进/快退按钮或播放视频时,它会暂停。这是软件bug吗?" %}}
+<div class="balloon">
+对于YouTube视频,分辨率可能太高导致播放不流畅。您可以从视频屏幕左下角的齿轮图标更改YouTube画质。<br>对于其他视频,原视频文件的分辨率可能太高。请重新导入一个较低分辨率的视频。
+</div>
+<div class="box"><img src="navi_001.png" alt="navi" class="img-right"></div>
+{{% /expand%}}
+<br>
+
 ## 其他
 
 <!-- Q. 広告はアプリ内課金で消せませんか？ -->
@@ -174,6 +182,15 @@ chapter: false
 成为支持者后，您可以去除广告。<br>请点击视频列表屏幕右上角的“Ad”按钮以了解更多信息。
 </div>
 <div class="box"><img src="navi_001.png" alt="navi" class="img-right"></div>
+{{% /expand%}}
+<br>
+
+<!-- Q. 配信または動画でこのアプリを使ってもいいですか？ -->
+{{%expand "Q. 我可以在直播或视频中使用这个应用吗?" %}}
+<div class="balloon">
+请随意使用。不需要授权或致谢。<br>但是,任何致谢开发者都会非常感激。
+</div>
+<div class="box"><img src="navi_002.png" alt="navi" class="img-right"></div>
 {{% /expand%}}
 <br>
 

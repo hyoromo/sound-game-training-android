@@ -110,10 +110,9 @@ chapter: false
 <br>
 
 <!-- Q. YouTube動画の解像度が低いです。変更出来ませんか？ -->
-<!--
 {{%expand "Q. 我的YouTube視頻的分辨率太低了。我有可能改變它嗎？" %}}
 <div class="balloon">
-你可以在240p/360p/720p之間選擇。默認設置是360p。<br>你可以在視頻列表左下方的 "常用設置>通信" 下找到設置。
+根據原視頻解析度,您可以選擇240p/360p/480p/720p/最高畫質。預設為720p。<br>您可以從視頻屏幕左下角的齒輪圖標更改YouTube畫質。
 </div>
 <div class="box"><img src="navi_002.png" alt="navi" class="img-right"></div>
 {{% /expand%}}
@@ -166,6 +165,15 @@ chapter: false
 {{% /expand%}}
 <br>
 
+<!-- Q. 早送り/巻き戻しボタンを使用したり、動画を再生していると一時停止します。これはバグですか？ -->
+{{%expand "Q. 當我使用快進/快退按鈕或播放視頻時,它會暫停。這是軟體bug嗎?" %}}
+<div class="balloon">
+對於YouTube視頻,解析度可能太高導致播放不流暢。您可以從視頻屏幕左下角的齒輪圖標更改YouTube畫質。<br>對於其他視頻,原視頻文件的解析度可能太高。請重新導入一個較低解析度的視頻。
+</div>
+<div class="box"><img src="navi_001.png" alt="navi" class="img-right"></div>
+{{% /expand%}}
+<br>
+
 ## 其他
 
 <!-- Q. 広告はアプリ内課金で消せませんか？ -->
@@ -174,6 +182,15 @@ chapter: false
 成為支持者後，您可以去除廣告。<br>請點擊影片列表畫面右上角的「Ad」按鈕以了解更多資訊。
 </div>
 <div class="box"><img src="navi_001.png" alt="navi" class="img-right"></div>
+{{% /expand%}}
+<br>
+
+<!-- Q. 配信または動画でこのアプリを使ってもいいですか？ -->
+{{%expand "Q. 我可以在直播或視頻中使用這個應用嗎?" %}}
+<div class="balloon">
+請隨意使用。不需要授權或致謝。<br>但是,任何致謝開發者都會非常感激。
+</div>
+<div class="box"><img src="navi_002.png" alt="navi" class="img-right"></div>
 {{% /expand%}}
 <br>
 

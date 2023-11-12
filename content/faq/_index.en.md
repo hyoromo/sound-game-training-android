@@ -109,16 +109,15 @@ You can set it from "Folder settings > Fast Forward/Rewind button" from the uppe
 {{% /expand%}}
 <br>
 
+<!-- TODO -->
 <!-- Q. YouTube動画の解像度が低いです。変更出来ませんか？ -->
-<!--
 {{%expand "Q. The resolution of YouTube videos is low. Is it possible for me to change it?" %}}
 <div class="balloon">
-You can choose from 240p/360p/720p. The default setting is 360p.<br>You can configure the settings from "Common Settings > Video traffic" at the bottom left of the video list screen.
+Depending on the original video resolution, you can choose from 240p/360p/480p/720p/Highest. The default is 720p.<br>You can change the YouTube quality from the gear icon in the bottom left of the video screen.
 </div>
 <div class="box"><img src="navi_002.png" alt="navi" class="img-right"></div>
 {{% /expand%}}
 <br>
--->
 
 <!-- Q. 動画追加後に端末内やGoogleDriveから動画を削除しても大丈夫ですか？ -->
 {{%expand "Q. Can I delete videos from my device or GoogleDrive after adding a video?" %}}
@@ -167,15 +166,15 @@ It's most likely a bug. Please contact us from "Feedback" in the upper right cor
 {{% /expand%}}
 <br>
 
-<!-- Q. カメラロールの動画がアプリ内で再生されなくなりました。これはバグですか？ -->
-<!--
-{{%expand "Q. Videos from my camera roll are no longer playing in the app. Is this a bug?" %}}
+<!-- TODO -->
+<!-- Q. 早送り/巻き戻しボタンを使用したり、動画を再生していると一時停止します。これはバグですか？ -->
+{{%expand "Q. When I use the fast forward/rewind buttons or play a video, it pauses. Is this a bug?" %}}
 <div class="balloon">
-Deleting a video from the camera roll will stop it from playing.<br>If you choose to save photos to iCloud, they will not be playable at a later date. Please register the video uploaded to iCloud to the application.<br>If you have videos in your camera roll but they do not play, try restarting the app/device to see if that solves the problem.
+For YouTube videos, the resolution may be too high for smooth playback. You can change the YouTube quality from the gear icon in the bottom left of the video screen.<br>For other videos, the resolution of the original video file may be too high. Please re-import the video at a lower resolution.
 </div>
 <div class="box"><img src="navi_001.png" alt="navi" class="img-right"></div>
 {{% /expand%}}
--->
+<br>
 
 ## Other
 
@@ -185,6 +184,16 @@ Deleting a video from the camera roll will stop it from playing.<br>If you choos
 You can remove ads by becoming a supporter.<br>For more information, please tap the "Ad" button in the upper right corner of the video list screen.
 </div>
 <div class="box"><img src="navi_001.png" alt="navi" class="img-right"></div>
+{{% /expand%}}
+<br>
+
+<!-- TODO -->
+<!-- Q. 配信または動画でこのアプリを使ってもいいですか？ -->
+{{%expand "Q. Can I use this app on my stream or in videos?" %}}
+<div class="balloon">
+Please feel free to use it. No permission or attribution is required.<br>However, any attribution is greatly appreciated by the developer.
+</div>
+<div class="box"><img src="navi_002.png" alt="navi" class="img-right"></div>
 {{% /expand%}}
 <br>
 
