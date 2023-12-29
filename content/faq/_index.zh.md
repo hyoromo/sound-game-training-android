@@ -34,17 +34,17 @@ chapter: false
 <!-- Q. タッチを表示する事は出来ますか？ -->
 {{%expand "Q. 是否可以显示触摸？" %}}
 <div class="balloon">
-你不能用这个应用程序做到这一点。<br>当您在设备的设置应用程序的开发者选项中打开“显示水龙头”时，它将显示。
+通过视频左下角的齿轮图标打开“触摸显示”,就可以在播放时显示。<br>可以更改颜色、调整大小等根据个人喜好进行设置 ♪~
 </div>
-<div class="box"><img src="navi_003.png" alt="navi" class="img-right"></div>
+<div class="box"><img src="navi_001.png" alt="navi" class="img-right"></div>
 {{% /expand%}}
 <br>
 
 <!-- Q. タッチ音を鳴らす事は出来ますか？ -->
 {{%expand "Q. 是否可以发出触摸的声音？" %}}
 <div class="balloon">
-可以从视频列表屏幕右上角的“通用设置 > 触摸视频 > 触摸声音”进行设置。<br>
-触摸声音有很多种，请选择你喜欢的一种吧♪~
+通过视频左下角的齿轮图标打开“触摸声音”,就可以在播放时点击出现声音。<br>
+触摸声音有很多种，请选择你喜欢的一种吧 ♪~
 </div>
 <div class="box"><img src="navi_002.png" alt="navi" class="img-right"></div>
 {{% /expand%}}

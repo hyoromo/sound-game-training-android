@@ -34,16 +34,16 @@ Just tapping the screen while playing the part you're weak in is good enough pra
 <!-- Q. タッチを表示する事は出来ますか？ -->
 {{%expand "Q. Can you display touch?" %}}
 <div class="balloon">
-You can't do it with this app.<br>In the device's Settings app, go to Developer Options and turn on "Show Taps".
+By turning ON "Display Touch" from the gear icon at the bottom left of the video, it will be displayed during playback.<br>You can also change the color and adjust the size to your preference ♪~
 </div>
-<div class="box"><img src="navi_003.png" alt="navi" class="img-right"></div>
+<div class="box"><img src="navi_001.png" alt="navi" class="img-right"></div>
 {{% /expand%}}
 <br>
 
 <!-- Q. タッチ音を鳴らす事は出来ますか？ -->
 {{%expand "Q. Is it possible to make a touch sound?" %}}
 <div class="balloon">
-Settings can be made from "Common settings > Touch on video > Touch sound" from the upper right of the video list screen.<br>
+By turning ON "Touch Sound" from the gear icon at the bottom left of the video, a sound will play when tapping during playback.<br>
 There are various kinds of touch sounds, so please choose the one you like ♪~
 </div>
 <div class="box"><img src="navi_002.png" alt="navi" class="img-right"></div>

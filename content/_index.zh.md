@@ -5,7 +5,7 @@ title: index
 ![top banner](top_banner.zh.png)
 
 {{% notice info %}}
-本网站是基于v1.7.5安卓应用程序的内容。请注意，可能与最新版本有差异。
+本网站是基于v1.8.0安卓应用程序的内容。请注意，可能与最新版本有差异。
 {{% /notice %}}
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/r9iVgihnRpk?si=GcUQL6H1s4RZMp4B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

@@ -30,15 +30,15 @@ chapter: false
 
 {{%expand "Q. タッチを表示する事は出来ますか？" %}}
 <div class="balloon">
-本アプリでは行えません。<br>端末の設定アプリにて、開発者向けオプションから「タップを表示」をオンにすると表示されます。
+動画の左下にある歯車から「タッチの表示」をONにする事で、再生中に表示されます。<br>色の変更や、サイズ調整も行えるのでお好みの調整をしてください ♪~
 </div>
-<div class="box"><img src="navi_003.png" alt="navi" class="img-right"></div>
+<div class="box"><img src="navi_001.png" alt="navi" class="img-right"></div>
 {{% /expand%}}
 <br>
 
 {{%expand "Q. タッチ音を鳴らす事は出来ますか？" %}}
 <div class="balloon">
-動画一覧画面の右上から「共通設定 > 動画上のタッチ > タッチ音」から設定が行えます。<br>
+動画の左下にある歯車から「タッチ音」をONにする事で、再生中にタップすると音が鳴ります。<br>
 タッチ音は色々な種類を用意していますので、お好きな音を選んでください ♪~
 </div>
 <div class="box"><img src="navi_002.png" alt="navi" class="img-right"></div>

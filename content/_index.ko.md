@@ -5,7 +5,7 @@ title: index
 ![top banner](top_banner.ko.png)
 
 {{% notice info %}}
-본 사이트는 v1.7.5의 Android 버전 앱 내용을 바탕으로 기재하고 있습니다. 최신판과 차이가 있을지도 모른다는 점에 주의해 주세요.
+본 사이트는 v1.8.0의 Android 버전 앱 내용을 바탕으로 기재하고 있습니다. 최신판과 차이가 있을지도 모른다는 점에 주의해 주세요.
 {{% /notice %}}
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hud2tkSATZE?si=lziLdcHqpI-MOUY3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

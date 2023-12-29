@@ -34,16 +34,16 @@ chapter: false
 <!-- Q. タッチを表示する事は出来ますか？ -->
 {{%expand "Q. 터치를 표시할 수 있습니까?" %}}
 <div class="balloon">
-이 앱에서는 할 수 없습니다.<br>기기의 설정 앱에서 개발자 옵션에서 '탭 표시'를 켜면 표시됩니다.
+동영상 왼쪽 하단의 톱니바퀴에서 "터치 표시"를 ON으로 하면 재생 중에 표시됩니다.<br>색 변경이나 크기 조정도 할 수 있으니 취향에 맞게 조정하세요 ♪~
 </div>
-<div class="box"><img src="navi_003.png" alt="navi" class="img-right"></div>
+<div class="box"><img src="navi_001.png" alt="navi" class="img-right"></div>
 {{% /expand%}}
 <br>
 
 <!-- Q. タッチ音を鳴らす事は出来ますか？ -->
 {{%expand "Q. 화면을 터치했을 때 소리를 울릴 수 있습니까?" %}}
 <div class="balloon">
-동영상 목록 화면의 오른쪽 상단에서 "공통 설정> 동영상상의 터치> 터치 소리"에서 설정할 수 있습니다.<br>
+동영상 왼쪽 하단의 톱니바퀴에서 "터치 소리"를 ON으로 하면 재생 중 탭하면 소리가 납니다.<br>
 터치 소리는 다양한 종류를 준비하고 있으므로, 좋아하는 소리를 선택해 주세요 ♪~
 </div>
 <div class="box"><img src="navi_002.png" alt="navi" class="img-right"></div>
