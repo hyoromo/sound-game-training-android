@@ -150,7 +150,15 @@ chapter: false
 {{% /expand%}}
 <br>
 
-<!-- TODO -->
+{{%expand "Q. YouTubeの動画が再生途中で止まりました。これはバグですか？" %}}
+<div class="balloon">
+回線の問題で再生が間に合っていない可能性がございます。<br>
+動画画面の左下にある歯車からYouTube画質を下げてみてください。
+</div>
+<div class="box"><img src="navi_001.png" alt="navi" class="img-right"></div>
+{{% /expand%}}
+<br>
+
 {{%expand "Q. 早送り/巻き戻しボタンを使用したり、動画を再生していると一時停止します。これはバグですか？" %}}
 <div class="balloon">
 YouTubeの場合は動画解像度が高く、再生が間に合っていない可能性が御座います。動画画面の左下にある歯車からYouTube画質を変更できます。<br>それ以外の動画の場合、動画自体の解像度が高すぎる可能性が御座います。動画解像度を落として再度取り込み直してください。

@@ -166,7 +166,16 @@ It's most likely a bug. Please contact us from "Feedback" in the upper right cor
 {{% /expand%}}
 <br>
 
-<!-- TODO -->
+<!-- Q. YouTubeの動画が再生途中で止まりました。これはバグですか？ -->
+{{%expand "Q. The YouTube video stopped playing in the middle. Is this a bug?" %}}
+<div class="balloon">
+There is a possibility that the playback is not keeping up due to a network issue.<br>
+Please try lowering the YouTube video quality by clicking the gear icon in the bottom-left of the video player.
+</div>
+<div class="box"><img src="navi_001.png" alt="navi" class="img-right"></div>
+{{% /expand%}}
+<br>
+
 <!-- Q. 早送り/巻き戻しボタンを使用したり、動画を再生していると一時停止します。これはバグですか？ -->
 {{%expand "Q. When I use the fast forward/rewind buttons or play a video, it pauses. Is this a bug?" %}}
 <div class="balloon">

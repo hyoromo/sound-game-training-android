@@ -165,6 +165,16 @@ chapter: false
 {{% /expand%}}
 <br>
 
+<!-- Q. YouTubeの動画が再生途中で止まりました。これはバグですか？ -->
+{{%expand "Q. YouTube 동영상이 재생 중간에 멈췄습니다. 이것은 버그입니까?" %}}
+<div class="balloon">
+네트워크 문제로 인해 재생이 제대로 이루어지지 않을 가능성이 있습니다.<br>
+동영상 화면 왼쪽 아래에 있는 기어 아이콘을 클릭하여 YouTube 화질을 낮추어 보시기 바랍니다.
+</div>
+<div class="box"><img src="navi_001.png" alt="navi" class="img-right"></div>
+{{% /expand%}}
+<br>
+
 <!-- Q. 早送り/巻き戻しボタンを使用したり、動画を再生していると一時停止します。これはバグですか？ -->
 {{%expand "빨리 감기/되감기 버튼을 사용하거나 동영상을 재생하면 일시 정지합니다. 이것은 버그인가요?" %}}
 <div class="balloon">

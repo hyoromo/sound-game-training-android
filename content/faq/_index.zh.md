@@ -165,6 +165,16 @@ chapter: false
 {{% /expand%}}
 <br>
 
+<!-- Q. YouTubeの動画が再生途中で止まりました。これはバグですか？ -->
+{{%expand "Q. YouTube的视频在播放过程中停止了。这是个bug吗?" %}}
+<div class="balloon">
+有可能是因为网络问题导致播放无法跟上。<br>
+请尝试点击视频播放器左下角的齿轮图标,降低YouTube视频质量。
+</div>
+<div class="box"><img src="navi_001.png" alt="navi" class="img-right"></div>
+{{% /expand%}}
+<br>
+
 <!-- Q. 早送り/巻き戻しボタンを使用したり、動画を再生していると一時停止します。これはバグですか？ -->
 {{%expand "Q. 当我使用快进/快退按钮或播放视频时,它会暂停。这是软件bug吗?" %}}
 <div class="balloon">
